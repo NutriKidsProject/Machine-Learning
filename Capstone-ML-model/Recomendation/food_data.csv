@@ -1,0 +1,1347 @@
+id,calories,proteins,fat,carbohydrate,name,label
+1,280.0,9.2,28.4,0.0,Abon,Non-Vegetarian
+2,513.0,23.7,37.0,21.3,Abon haruwan,Non-Vegetarian
+3,0.0,0.0,0.2,0.0,Agar-agar,Vegan
+4,45.0,1.1,0.4,10.8,Akar tonjong segar,Vegan
+5,37.0,4.4,0.5,3.8,Aletoge segar,Vegan
+6,85.0,0.9,6.5,7.7,Alpukat segar,Vegan
+7,96.0,3.7,0.6,19.1,Ampas kacang hijau,Vegan
+8,414.0,26.6,18.3,41.3,Ampas Tahu,Vegan
+9,75.0,4.1,2.1,10.7,Ampas tahu kukus,Vegan
+10,67.0,5.0,2.1,8.1,Ampas tahu mentah,Vegan
+11,184.0,18.8,14.0,0.0,Anak sapi daging gemuk segar,Non-Vegetarian
+12,174.0,19.6,10.0,0.0,Anak sapi daging kurus segar,Non-Vegetarian
+13,190.0,19.1,12.0,0.0,Anak sapi daging sedang segar,Non-Vegetarian
+14,99.0,4.6,1.0,18.0,Andaliman segar,Vegan
+15,25.0,1.6,0.2,5.3,Andewi,Vegan
+16,30.0,0.5,0.2,6.8,Anggur hutan segar,Vegan
+17,354.0,16.4,31.5,0.0,Angsa,Non-Vegetarian
+18,126.0,3.4,7.9,10.3,Anyang sayur,Vegan
+19,58.0,0.3,0.4,14.9,Apel,Vegan
+20,57.0,0.5,0.4,12.8,Apel malang segar,Vegan
+21,37.0,0.8,0.5,8.3,Arbei,Vegan
+22,113.0,0.9,7.2,11.2,Ares sayur,Vegan
+23,102.0,1.0,0.2,24.1,Arrowroot segar,Vegan
+24,277.0,2.4,25.0,10.7,Arwan sirsir,Vegan
+25,75.0,0.2,1.1,16.1,Asam kandis segar,Vegan
+26,239.0,2.8,0.6,62.5,Asam masak di pohon,Vegan
+27,135.0,0.8,0.4,32.1,Asam payak segar,Vegan
+28,261.0,0.9,1.6,63.3,Asan kandis kering,Vegan
+29,98.0,3.9,2.6,14.8,Asinan Bogor sayuran,Vegan
+30,302.0,18.2,25.0,0.0,Ayam,Non-Vegetarian
+31,297.0,35.9,15.2,1.6,Ayam  goreng Kentuckysayap,Non-Vegetarian
+32,270.0,32.3,11.2,9.9,Ayam ampela goreng,Non-Vegetarian
+33,75.0,13.8,1.9,0.7,Ayam dideh/darah segar,Non-Vegetarian
+34,295.0,34.0,16.0,1.5,Ayam goreng church texa sayap,Non-Vegetarian
+35,338.0,35.2,20.6,0.4,Ayam goreng church texas dada,Non-Vegetarian
+36,275.0,37.4,12.2,1.3,Ayam goreng kalasan paha,Non-Vegetarian
+37,298.0,34.2,16.8,0.1,Ayam goreng kentucky dada,Non-Vegetarian
+38,286.0,32.1,16.1,1.1,Ayam goreng Kentucky paha,Non-Vegetarian
+39,295.0,39.2,13.6,1.0,Ayam goreng mbok berek dada,Non-Vegetarian
+40,287.0,31.0,15.7,1.7,Ayam goreng paha,Non-Vegetarian
+41,246.0,37.9,9.0,0.7,Ayam goreng pasundan dada,Non-Vegetarian
+42,245.0,33.1,11.4,0.3,Ayam goreng pasundan paha,Non-Vegetarian
+43,295.0,37.4,14.7,0.6,Ayam goreng pioneer dada,Non-Vegetarian
+44,244.0,36.7,9.2,1.0,Ayam goreng sukabumi dada,Non-Vegetarian
+45,283.0,35.7,14.3,0.5,Ayam goreng sukabumi paha,Non-Vegetarian
+46,261.0,27.4,16.1,1.6,Ayam hati segar,Non-Vegetarian
+47,264.0,18.2,20.1,2.7,Ayam taliwang masakan,Non-Vegetarian
+48,473.0,45.2,26.3,13.9,Ayam usus goreng,Non-Vegetarian
+49,113.0,17.6,4.2,0.0,Babat,Non-Vegetarian
+50,453.0,11.9,45.0,0.0,Babi daging gemuk segar,Non-Vegetarian
+51,371.0,14.1,35.0,0.0,Babi daging kurus segar,Non-Vegetarian
+52,110.0,16.3,4.6,0.8,Babi ginjal segar,Non-Vegetarian
+53,129.0,19.7,4.8,1.7,Babi hati segar,Non-Vegetarian
+54,491.0,24.6,16.3,0.2,Babi hutan masak rica masakan,Non-Vegetarian
+55,102.9,3.3,2.7,16.3,Bacang,Vegetarian
+56,450.0,3.2,13.9,78.1,Bagea kelapa asin,Vegetarian
+57,452.0,1.3,13.8,80.6,Bagea kelapa manis,Vegetarian
+58,529.0,3.2,29.1,63.6,Bagea kenari asin,Vegetarian
+59,523.0,3.2,28.2,64.2,Bagea kenari manis,Vegetarian
+60,416.0,6.5,9.4,76.3,Bagea kw 1,Vegetarian
+61,382.0,0.3,3.5,87.2,Bagea kw 2,Vegetarian
+62,129.0,1.9,6.6,15.6,Baje,Vegetarian
+63,272.0,8.7,6.7,44.1,Bakpia kue,Vegetarian
+64,76.0,4.1,2.5,9.2,Bakso ,Non-Vegetarian
+65,27.0,2.0,0.2,4.2,Bakung segar,Non-Vegetarian
+66,280.0,8.2,10.2,39.0,Bakwan,Vegetarian
+67,13.0,0.4,0.2,3.0,Baligo,Vegan
+68,190.0,3.3,0.3,43.5,Bantal,Vegan
+69,159.0,3.1,5.8,23.5,Barongko,Vegan
+70,137.0,4.3,4.8,19.1,Batang Tading,Vegan
+71,107.0,2.2,2.2,19.6,Batar daan,Vegan
+72,76.0,1.1,0.9,16.0,Batatas gembili segar,Vegan
+73,110.0,1.4,1.1,23.4,Batatas kelapa ubi bakar,Vegan
+74,92.0,1.2,0.3,21.0,Batatas kelapa ubi kukus,Vegan
+75,89.0,1.1,0.1,21.0,Batatas kelapa ubi segar,Vegan
+76,182.0,2.4,0.4,42.2,Batatas tali ubi rebus,Vegan
+77,45.0,1.4,0.2,10.3,Bawang Bombay,Vegan
+78,39.0,1.5,0.3,0.2,Bawang Merah,Vegan
+79,95.0,4.5,0.2,23.1,Bawang Putih,Vegan
+80,30.0,1.3,0.7,5.8,Bayam kukus,Vegan
+81,51.0,4.6,0.5,10.0,Bayam Merah,Vegan
+82,41.0,2.2,0.8,6.3,Bayam merah segar,Vegan
+83,23.0,1.2,0.6,3.7,Bayam rebus,Vegan
+84,36.0,3.5,0.5,6.5,Bayam segar,Vegan
+85,102.0,3.7,6.7,6.9,Bayam tumis + oncom,Vegan
+86,48.0,1.4,4.2,2.6,Bayam tumis bersantan,Vegan
+87,326.0,16.0,28.6,0.0,Bebek (itik),Non-Vegetarian
+88,303.0,11.3,27.0,3.7,Bebek alabio daging segar,Non-Vegetarian
+89,300.0,24.0,20.7,4.5,Bebek daging goreng,Non-Vegetarian
+90,65.0,1.1,5.2,3.5,Beberuk,Vegan
+91,258.0,10.6,9.5,32.5,Beef burger,Non-Vegetarian
+92,151.0,8.6,3.1,22.3,Beef teriyaki masakan,Non-Vegetarian
+93,132.0,9.8,1.1,20.7,Beef yakiniku masakan,Non-Vegetarian
+94,116.0,11.9,4.9,6.1,Bekasam,Non-Vegetarian
+95,78.0,11.4,2.0,3.6,Bekasang,Non-Vegetarian
+96,131.0,20.2,4.3,2.8,Belibis daging segar,Non-Vegetarian
+97,36.0,0.4,0.4,8.8,Belimbing,Vegan
+98,145.0,1.2,0.4,34.2,Belitung talas kukus,Vegan
+99,417.0,25.9,19.4,32.0,Belut goreng,Non-Vegetarian
+100,70.0,14.6,0.8,1.0,Belut segar,Non-Vegetarian
+101,93.0,12.8,1.5,6.1,Belutlaut segar,Non-Vegetarian
+102,55.0,1.4,0.2,12.8,Bengkuang,Vegan
+103,98.0,1.6,0.7,20.9,Bentul (Komba)  talas segar,Vegan
+104,71.0,2.3,0.3,15.4,Bentul talas kukus,Vegan
+105,350.0,2.7,1.1,82.3,Beras Cerdas,Vegan
+106,364.0,3.4,0.7,86.3,Beras ganyong,Vegan
+107,360.0,6.8,0.7,78.9,Beras Giling,Vegan
+108,178.0,2.1,0.1,40.6,Beras Giling masak (nasi) ,Vegan
+109,357.0,8.4,1.7,77.1,Beras giling mentah,Vegan
+110,369.0,9.5,1.4,77.1,Beras giling var pelita mentah,Vegan
+111,357.0,8.4,1.7,77.1,Beras giling var rojolele mentah,Vegan
+112,351.0,8.0,1.3,76.9,Beras hitam mentah,Vegan
+113,358.0,5.5,0.1,82.7,Beras jagung kuning kering mentah,Vegan
+114,307.0,4.8,0.1,71.8,Beras jagung putih kering mentah,Vegan
+115,356.0,7.0,0.7,78.0,Beras Ketan Hitam,Vegan
+116,181.0,4.0,1.2,37.3,Beras Ketan Hitam kukus,Vegan
+117,166.0,3.8,1.0,34.4,Beras Ketan Hitam tape,Vegan
+118,360.0,8.0,2.3,74.5,Beras Ketan Hitam tumbuk,Vegan
+119,360.0,8.0,2.3,74.5,Beras ketan hitam tumbuk mentah,Vegan
+120,362.0,6.7,0.7,79.4,Beras Ketan Putih,Vegan
+121,163.0,3.0,0.4,35.7,Beras Ketan Putih kukus,Vegan
+122,172.0,3.0,0.5,37.5,Beras Ketan Putih tape,Vegan
+123,361.0,7.4,0.8,78.4,Beras Ketan Putih tumbuk,Vegan
+124,361.0,7.4,0.8,78.4,Beras ketan putih tumbuk mentah,Vegan
+125,376.0,7.5,3.8,78.0,Beras ladang mentah,Vegan
+126,339.0,7.7,4.4,73.0,Beras Menir,Vegan
+127,362.0,7.7,4.4,73.0,Beras menir mentah,Vegan
+128,359.0,7.5,0.9,77.6,Beras Merah tumbuk,Vegan
+129,364.0,6.8,0.6,80.1,Beras Parboiled,Vegan
+130,353.0,6.8,0.6,80.0,Beras parboiled,Vegan
+131,335.0,7.4,1.9,76.2,Beras Pecah Kulit,Vegan
+132,363.0,7.6,1.1,78.3,Beras Setengah Giling,Vegan
+133,344.0,1.1,0.2,28.3,Beras Siger,Vegan
+134,354.0,7.8,0.4,79.9,Beras tumbuk mentah,Vegan
+135,352.0,7.3,0.9,76.2,Beras tumbuk merah mentah,Vegan
+136,145.0,16.3,7.0,4.1,Betok wadi masakan,Non-Vegetarian
+137,360.0,4.7,0.1,82.1,Bihun,Vegan
+138,154.0,3.0,4.5,25.5,Bihun Goreng ,Vegetarian
+139,381.0,6.1,3.9,80.3,Bihun goreng instan,Vegetarian
+140,354.0,0.5,0.3,87.4,Bihun Jagung mentah,Vegan
+141,348.0,4.7,0.1,82.1,Bihun mentah,Vegan
+142,562.0,21.2,49.6,23.6,Biji Jambu Mete,Vegan
+143,629.0,21.5,56.6,19.8,Biji Jambu Mete goreng,Vegan
+144,262.0,2.3,5.4,51.1,Biji nangka/Biji salak,Vegan
+145,199.0,2.1,1.5,44.4,Bika ambon,Vegetarian
+146,225.7,3.0,0.3,52.9,Bika Ambon ,Vegetarian
+147,48.0,0.6,0.0,4.4,Bir (4% alkohol),Vegan
+148,458.0,6.9,14.4,75.1,Biskuit,Vegetarian
+149,42.0,1.6,0.1,9.6,Bit,Vegan
+150,51.0,0.3,0.1,12.1,Biwah segar,Vegan
+151,43.0,2.6,0.0,11.6,Bonggol Pisang,Vegan
+152,245.0,3.4,0.0,66.2,Bonggol Pisang kering,Vegan
+153,119.0,4.4,3.5,18.3,Bongkrek (tempe bungkil),Vegan
+154,23.0,1.0,0.8,7.2,Boros Kunci,Vegan
+155,22.0,1.0,0.3,4.7,Boros Laja (lengkuas),Vegan
+156,186.0,11.7,9.7,13.0,Botok lamtoro,Vegan
+157,249.0,3.4,0.4,58.0,Brem,Vegan
+158,400.0,4.0,0.7,95.3,Brondong ,Vegan
+159,141.0,15.3,3.3,12.6,Brongkos,Non-Vegetarian
+160,23.0,0.8,0.2,5.2,Buah Atung,Vegan
+161,110.0,1.4,2.1,21.4,Buah kelenting segar,Vegan
+162,38.0,1.5,0.2,7.5,Buah kelor,Vegan
+163,264.0,4.0,1.1,59.6,Buah kom segar,Vegan
+164,39.0,0.7,0.2,9.7,Buah Mentega (bisbul),Vegan
+165,87.0,2.6,2.7,13.1,Buah merah,Vegan
+166,71.0,1.7,3.1,9.1,Buah Naga Merah segar,Vegan
+167,56.0,0.8,1.0,10.9,Buah Naga Putih segar,Vegan
+168,55.0,1.2,0.1,12.2,Buah negri segar,Vegan
+169,101.0,1.7,0.6,25.2,Buah Nona,Vegan
+170,78.0,0.6,0.3,18.2,Buah rotan segar,Vegan
+171,113.0,0.8,0.3,26.8,Buah rukam segar,Vegan
+172,29.0,2.1,0.7,3.6,Buah ruruhi segar,Vegan
+173,67.0,0.4,0.2,15.9,Buah tuppa segar,Vegan
+174,365.0,49.6,4.8,30.8,Buaya daging dendeng mentah,Non-Vegetarian
+175,60.0,1.0,60.0,13.0,Bubur ,Vegan
+176,167.0,0.2,4.0,33.0,Bubur sagu,Vegan
+177,156.0,2.3,0.2,15.6,Bubur tinotuan (Manado),Vegan
+178,72.0,11.4,4.9,1.4,Bulgogi masakan,Non-Vegetarian
+179,212.0,16.9,0.2,47.6,Bulung Jajan,Vegan
+180,237.0,14.7,0.2,56.0,Bulung Sangu,Vegan
+181,35.0,2.4,0.2,7.7,Buncis,Vegan
+182,60.0,5.1,0.5,8.5,Buncis asam,Vegan
+183,30.0,2.2,0.2,6.4,Buncis rebus,Vegan
+184,45.0,2.6,0.3,8.1,Bunga pepaya segar,Vegan
+185,42.0,2.0,1.1,6.1,Bunga turi segar,Vegan
+186,333.0,29.3,3.3,50.0,Bungkil Biji Karet,Vegan
+187,336.0,37.4,13.0,30.5,Bungkil Kacang Tanah,Vegan
+188,368.0,23.0,15.0,40.0,Bungkil Kelapa,Vegan
+189,106.0,4.4,6.3,7.9,Buntil ,Vegan
+190,141.0,4.4,10.2,8.0,Buntil daun talas,Vegan
+191,125.7,3.3,1.9,23.9,Buras ,Vegetarian
+192,281.0,37.5,0.3,32.1,Burung sarang segar,Non-Vegetarian
+193,38.0,1.6,0.8,6.3,Cabai gembor merah segar,Vegan
+194,26.0,0.7,0.3,5.2,Cabai hijau segar,Vegan
+195,367.0,15.9,6.2,61.8,Cabai merah kering,Vegan
+196,36.0,1.0,0.3,7.3,Cabai merah segar,Vegan
+197,120.0,4.7,2.4,19.9,Cabai rawit segar,Vegan
+198,20.0,1.7,0.4,3.4,Caisin segar,Vegan
+199,155.0,20.1,3.8,10.2,Cakalang asar (asap papua),Non-Vegetarian
+200,323.0,4.9,11.5,50.1,Cake tape,Vegan
+201,102.0,3.2,6.0,8.7,Cammetutu,Vegan
+202,366.0,11.0,3.3,73.0,Cantel mentah,Vegan
+203,97.0,5.8,6.3,4.2,Cap cai sayur,Vegan
+204,24.0,1.9,0.2,3.7,Carica papaya segar,Vegan
+205,460.0,0.8,18.7,17.2,Cassavastick,Vegan
+206,116.0,3.0,0.4,28.6,Cempedak,Vegan
+207,330.0,5.2,8.9,57.4,Cengkeh kering,Vegan
+208,332.0,11.0,3.3,73.0,Centel,Vegan
+209,462.0,1.2,20.7,67.7,Ceriping getuk singkong,Vegan
+210,168.0,13.0,9.6,7.5,Chicken teriyaki masakan,Non-Vegetarian
+211,143.0,9.8,1.4,22.8,Chikiniku masakan,Non-Vegetarian
+212,311.0,8.0,4.0,48.9,Coklat bubuk,Vegan
+213,472.0,2.0,29.8,62.7,Coklat Manis batang,Vegetarian
+214,504.0,5.5,52.9,29.2,Coklat Pahit batang,Vegan
+215,381.0,9.0,35.0,53.6,Coklat Susu batang,Vegetarian
+216,210.0,1.6,6.6,35.8,Combro ,Vegan
+217,241.0,16.0,25.0,0.0,Corned Beef,Non-Vegetarian
+218,96.0,6.8,5.9,3.8,Coto mangkasara kuda masakan,Non-Vegetarian
+219,84.0,6.0,6.0,1.4,Coto mangkasara sapi masakan,Non-Vegetarian
+220,145.0,27.0,2.3,0.0,Cue Selar Kuning,Non-Vegetarian
+221,12.0,0.1,0.1,5.0,Cuka,Vegan
+222,265.0,40.6,10.1,0.0,Cumi-cumi goreng,Non-Vegetarian
+223,75.0,16.1,0.7,0.1,Cumi-cumi segar,Non-Vegetarian
+224,190.0,19.1,12.0,0.0,Daging Anak Sapi,Non-Vegetarian
+225,191.0,32.0,6.0,0.0,Daging Asap,Non-Vegetarian
+226,457.0,11.6,45.0,0.0,Daging Babi Gemuk,Non-Vegetarian
+227,376.0,14.1,35.0,0.0,Daging Babi Kurus,Non-Vegetarian
+228,206.0,17.1,14.8,0.0,Daging Domba,Non-Vegetarian
+229,154.0,16.6,9.2,0.0,Daging Kambing,Non-Vegetarian
+230,84.0,18.7,0.5,0.0,Daging Kerbau,Non-Vegetarian
+231,118.0,18.1,4.1,0.9,Daging Kuda,Non-Vegetarian
+232,207.0,18.8,14.0,0.0,Daging Sapi,Non-Vegetarian
+233,27.0,1.3,0.6,4.0,Daun bangun-bangun segar,Vegan
+234,29.0,1.8,0.7,5.2,Daun Bawang,Vegan
+235,41.0,2.0,0.3,7.8,Daun bawang  merah segar,Vegan
+236,41.0,2.7,1.0,7.3,Daun bebuas segar,Vegan
+237,50.0,4.4,1.4,7.8,Daun belem segar,Vegan
+238,42.0,1.8,0.5,9.4,Daun Beluntas,Vegan
+239,122.0,6.0,1.0,26.0,Daun Cincau,Vegan
+240,60.0,3.1,0.3,14.0,Daun Gandaria,Vegan
+241,58.0,2.9,0.7,10.0,Daun gedi besar segar,Vegan
+242,30.0,1.3,0.7,5.8,Daun gelang segar,Vegan
+243,50.0,4.6,0.9,7.0,Daun gunda bali segar,Vegan
+244,62.0,4.2,0.9,9.2,Daun gunda serang segar,Vegan
+245,73.0,4.6,0.5,16.2,Daun Jambu Mete muda,Vegan
+246,34.0,3.8,0.5,5.3,Daun jampang segar,Vegan
+247,93.0,5.0,1.3,15.3,Daun jawaw seluang segar,Vegan
+248,27.0,2.1,0.7,4.4,Daun jonghe segar,Vegan
+249,36.0,2.9,0.6,6.8,Daun kacang ma segar,Vegan
+250,34.0,4.1,0.4,5.8,Daun Kacang Panjang,Vegan
+251,40.0,3.7,0.3,8.0,Daun Kacang Panjang kukus,Vegan
+252,30.0,3.1,0.3,5.8,Daun kacang panjang segar,Vegan
+253,92.0,4.0,3.6,10.9,Daun kasbi/singkong karet segar,Vegan
+254,59.0,4.8,1.0,11.0,Daun Katuk,Vegan
+255,53.0,5.3,0.9,9.1,Daun katuk rebus,Vegan
+256,59.0,6.4,1.0,9.9,Daun katuk segar,Vegan
+257,47.0,5.0,0.5,8.5,Daun Kecipir,Vegan
+258,59.0,2.8,0.3,13.4,Daun Kedondong,Vegan
+259,82.0,6.7,1.7,14.3,Daun Kelor,Vegan
+260,61.0,6.1,0.9,10.0,Daun Kelor rebus,Vegan
+261,46.0,4.0,0.5,8.9,Daun Kemangi,Vegan
+262,45.0,3.7,0.5,6.6,Daun kenikir segar,Vegan
+263,48.0,4.5,0.8,9.1,Daun kesum segar,Vegan
+264,22.0,2.1,0.5,3.6,Daun kol sawi segar,Vegan
+265,23.0,3.0,0.3,3.7,Daun Koro,Vegan
+266,51.0,2.5,1.1,8.0,Daun kubis segar,Vegan
+267,14.0,1.3,0.3,2.3,Daun Kumak,Vegan
+268,60.0,4.0,0.4,4.7,Daun Labu Siam,Vegan
+269,30.0,3.6,0.6,4.5,Daun Labu Waluh,Vegan
+270,87.0,8.3,1.8,14.4,Daun lamtoro segar,Vegan
+271,76.0,2.8,0.2,15.8,Daun leilem segar,Vegan
+272,45.0,4.7,0.5,8.1,Daun Leunca,Vegan
+273,30.0,2.3,0.4,5.8,Daun Lobak,Vegan
+274,40.0,3.0,0.8,7.4,Daun Lompong Tales,Vegan
+275,54.0,3.7,0.3,11.8,Daun Mangkokan,Vegan
+276,71.0,6.8,1.6,11.5,Daun matel ambon segar,Vegan
+277,99.0,5.0,1.3,21.3,Daun Melinjo,Vegan
+278,63.0,3.8,1.5,11.5,Daun Mengkudu Kukus,Vegan
+279,166.0,1.7,0.5,38.8,Daun ndusuk segar,Vegan
+280,22.0,1.0,0.1,5.3,Daun Oyong,Vegan
+281,22.0,1.0,0.1,5.3,Daun oyong segar,Vegan
+282,35.0,4.0,0.3,6.4,Daun Pakis,Vegan
+283,54.0,2.2,3.6,3.1,Daun pakis longgiho segar,Vegan
+284,39.0,4.5,0.4,6.9,Daun pakis segar,Vegan
+285,53.0,3.4,1.2,7.2,Daun pakis wambateu segar,Vegan
+286,29.0,3.4,0.1,6.5,Daun paku segar,Vegan
+287,104.0,3.9,0.6,17.9,Daun pangisegar,Vegan
+288,49.0,2.7,1.0,8.4,Daun pare segar,Vegan
+289,87.0,8.0,2.0,11.9,Daun pepaya segar,Vegan
+290,128.0,12.0,6.5,12.4,Daun Pete Cina,Vegan
+291,37.0,2.5,0.8,6.9,Daun Poh-pohan,Vegan
+292,301.0,14.2,10.9,49.0,Daun salam  bubuk,Vegan
+293,62.0,4.0,0.5,10.5,Daun selasih segar,Vegan
+294,45.0,4.4,8.0,0.5,Daun Semanggi,Vegan
+295,45.0,4.4,0.5,8.5,Daun semanggi segar,Vegan
+296,53.0,3.2,2.5,7.6,Daun simpur segar,Vegan
+297,68.0,2.0,1.0,15.2,Daun singkil segar,Vegan
+298,73.0,6.8,1.2,13.0,Daun Singkong,Vegan
+299,144.0,12.7,1.2,25.2,Daun singkong ambon segar,Vegan
+300,50.0,6.2,1.1,7.1,Daun singkong ampenan segar,Vegan
+301,74.0,6.3,0.7,10.7,Daun singkong kopang segar,Vegan
+302,55.0,4.0,0.5,8.5,Daun Singkong lodeh,Vegan
+303,31.0,3.7,0.6,4.8,Daun Singkong rebus,Vegan
+304,50.0,6.2,1.1,7.1,Daun singkong segar,Vegan
+305,36.0,2.6,0.9,6.1,Daun Sintrong,Vegan
+306,27.0,1.3,0.2,5.9,Daun talas rebus,Vegan
+307,59.0,3.0,0.4,13.5,Daun talas segar,Vegan
+308,71.0,4.1,2.1,12.3,Daun Tales,Vegan
+309,27.0,1.3,0.2,5.9,Daun Tales rebus,Vegan
+310,70.0,2.9,0.3,13.9,Daun tespong segar,Vegan
+311,47.0,2.8,0.4,10.4,Daun Ubi Jalar,Vegan
+312,56.0,3.1,0.3,13.0,Daun Ubi Jalar kukus,Vegan
+313,62.0,3.7,0.3,11.1,Daun ubi kuning segar,Vegan
+314,56.0,3.1,0.3,13.0,Daun ubi merah kukus,Vegan
+315,48.0,3.0,0.3,10.8,Daun ubi merah segar,Vegan
+316,46.0,2.8,0.2,8.2,Daun ubi putih segar,Vegan
+317,55.0,1.7,0.1,11.9,Daun ubi tinta segar,Vegan
+318,260.0,2.0,15.0,53.0,Deblo ,Non-Vegetarian
+319,382.0,55.7,14.1,8.0,Dendeng belut goreng,Non-Vegetarian
+320,433.0,55.0,9.0,0.0,Dendeng Daging Sapi,Non-Vegetarian
+321,598.0,74.3,26.9,9.2,Dendeng mujahir goreng,Non-Vegetarian
+322,77.0,13.8,1.9,0.7,Dideh darah ayam,Non-Vegetarian
+323,104.0,21.9,1.1,0.0,Dideh darah sapi,Non-Vegetarian
+324,248.0,10.0,2.3,40.9,Djibokum masakan,Non-Vegetarian
+325,395.0,3.0,5.7,81.2,Dodol,Vegan
+326,298.0,3.7,2.1,65.9,Dodol bali,Vegan
+327,368.0,2.6,8.6,70.0,Dodol banjarmasin,Vegan
+328,348.0,0.4,3.8,76.1,Dodol galamai,Vegan
+329,331.0,1.9,7.6,63.8,Dodol kedondong,Vegan
+330,373.0,4.3,16.5,51.9,Dodol manado,Vegan
+331,17.5,3.3,2.3,39.5,Dodonkol ,Non-Vegetarian
+332,317.0,15.7,27.7,0.0,Domba daging gemuk segar,Non-Vegetarian
+333,202.0,17.1,14.8,0.0,Domba daging kurus  segar,Non-Vegetarian
+334,100.0,16.6,3.3,1.0,Domba ginjal segar,Non-Vegetarian
+335,63.0,1.0,0.2,16.1,Duku,Vegan
+336,134.0,2.5,3.0,28.0,Durian,Vegan
+337,80.0,0.5,0.6,18.2,Duwet segar,Vegan
+338,18.0,1.0,0.2,3.8,Eceng Gondok,Vegan
+339,98.0,1.4,0.2,25.4,Embacang,Vegan
+340,248.0,36.2,6.9,10.1,Empal (daging) Goreng masakan,Non-Vegetarian
+341,590.0,18.5,57.0,0.0,Empal Goreng,Non-Vegetarian
+342,345.0,12.0,1.5,71.5,Emping (kerupuk melinjo),Vegan
+343,403.0,10.6,2.2,85.3,Emping beras,Vegan
+344,355.0,17.8,4.6,60.7,Emping komak,Vegan
+345,122.0,3.5,4.5,17.5,Encung asam segar,Vegan
+346,538.0,13.6,30.3,52.6,Enting-enting gepuk hello kity,Vegan
+347,524.0,13.3,29.2,52.0,Enting-enting gepuk kacang tanah,Vegan
+348,565.0,18.2,38.4,36.8,Enting-enting wijen,Vegan
+349,70.0,0.6,0.0,18.9,Erbis,Vegan
+350,210.0,4.0,12.5,20.6,Es krim,Vegetarian
+351,156.7,3.0,1.7,32.7,Es Krim (Coconut milk) ,Vegan
+352,152.0,0.0,0.0,37.6,Es Mambo ,Vegan
+353,44.8,0.0,0.0,11.3,Es Sirup ,Vegan
+354,270.0,12.3,15.9,19.3,Fillet o-fish,Non-Vegetarian
+355,322.0,2.4,0.6,76.6,Gadeng/Gadung kering,Vegan
+356,137.0,6.1,3.2,21.0,Gado-gado,Vegetarian
+357,88.0,0.8,0.3,20.9,Gadung kukus,Vegan
+358,101.0,2.1,0.2,23.2,Gadung mentah,Vegan
+359,88.0,0.6,0.3,20.9,Gadung ubi kukus,Vegan
+360,100.0,0.9,0.3,23.5,Gadung ubi segar,Vegan
+361,18.0,0.8,0.2,4.1,Gambas (Oyong),Vegan
+362,13.0,0.3,0.6,1.6,Gambas lodeh,Vegan
+363,68.0,0.7,0.1,18.0,Gandaria,Vegan
+364,100.0,0.8,0.2,23.8,Ganyong kukus,Vegan
+365,95.0,1.0,0.1,22.6,Ganyong mentah,Vegan
+366,100.0,0.8,0.2,23.8,Ganyong rebus,Vegan
+367,77.0,0.6,0.2,18.4,Ganyong segar,Vegan
+368,338.0,1.5,0.7,81.3,Gaplek,Vegan
+369,191.0,4.5,1.5,39.7,Gatep segar,Vegan
+370,347.0,1.3,0.7,83.8,Gatot,Vegan
+371,195.0,0.4,1.7,44.4,Geblek,Vegan
+372,389.0,0.0,0.0,91.0,Gelatine,Non-Vegetarian
+373,95.0,1.5,0.1,22.4,Gembili,Vegan
+374,131.0,1.1,0.2,31.3,Gembili ubi segar,Vegan
+375,274.0,1.7,5.4,55.5,Gemblong,Vegan
+376,407.0,6.4,28.2,32.0,Gendar goreng,Vegan
+377,35.0,1.7,0.2,7.7,Genjer segar,Vegan
+378,350.0,1.4,14.4,53.6,Geplak,Vegan
+379,462.0,3.1,24.4,57.7,Geplak jahe,Vegan
+380,75.0,8.2,2.0,6.0,Gete kuah asam masakan,Non-Vegetarian
+381,360.0,1.3,6.4,74.3,Getuk goreng,Vegan
+382,171.4,4.0,4.0,32.0,Getuk Lindri ,Vegan
+383,144.0,1.1,0.4,34.1,Getuk pisang,Vegan
+384,204.0,0.5,1.4,47.4,Getuk singkong,Vegan
+385,114.0,16.3,4.6,0.8,Ginjal Babi,Non-Vegetarian
+386,105.0,16.6,3.3,1.0,Ginjal Domba,Non-Vegetarian
+387,141.0,15.0,8.1,0.9,Ginjal Sapi,Non-Vegetarian
+388,53.0,1.6,1.6,8.8,Gudeg ,Vegetarian
+389,160.0,3.3,9.2,16.0,Gudeg sayur,Vegetarian
+390,368.0,0.0,0.0,95.0,Gula Aren,Vegan
+391,386.0,3.0,10.0,76.0,Gula Kelapa,Vegan
+392,356.0,0.4,0.5,90.6,Gula Merah Tebu belum dimurnikan,Vegan
+393,394.0,0.0,0.0,94.0,Gula putih,Vegan
+394,52.0,10.0,0.5,1.8,Gulai asam keueung masakan,Non-Vegetarian
+395,106.0,16.5,3.3,2.5,Gulai ikan masakan,Non-Vegetarian
+396,148.0,10.0,9.8,5.0,Gulai ikan paya masakan,Non-Vegetarian
+397,126.0,4.2,9.4,6.2,Gulai kambing,Non-Vegetarian
+398,110.0,5.9,8.2,3.2,Gulai keumamah masakan,Non-Vegetarian
+399,143.0,4.0,11.4,6.0,Gulai pakis,Vegetarian
+400,176.0,7.3,14.9,3.2,Gulai pliek,Non-Vegetarian
+401,132.0,9.0,7.2,7.8,Gulai tiram masakan,Non-Vegetarian
+402,192.0,12.7,10.1,12.7,Gurame asem manis masakan,Non-Vegetarian
+403,218.0,0.5,2.5,48.5,Gurandil,Non-Vegetarian
+404,389.0,16.9,35.0,0.3,Ham,Non-Vegetarian
+405,65.0,10.0,1.0,3.5,Hangop,Vegetarian
+406,134.0,19.7,4.8,1.7,Hati Babi,Non-Vegetarian
+407,136.0,19.7,3.2,6.0,Hati Sapi,Non-Vegetarian
+408,390.0,14.2,7.4,68.2,Havermout,Vegan
+409,127.0,1.2,0.5,29.5,Hofa/Ubi hutan segar,Vegan
+410,146.0,17.7,5.9,5.6,Ikan asar merah masakan,Non-Vegetarian
+411,380.0,33.6,27.5,0.0,Ikan Asin bilis goreng,Non-Vegetarian
+412,456.0,46.5,24.4,0.0,Ikan Asin gabus goreng,Non-Vegetarian
+413,348.0,18.7,29.5,0.0,Ikan Asin japuh goreng,Non-Vegetarian
+414,193.0,42.0,1.5,0.0,Ikan Asin kering,Non-Vegetarian
+415,430.0,58.2,23.6,0.0,Ikan Asin pari goreng,Non-Vegetarian
+416,652.0,40.4,54.3,0.0,Ikan Asin pepetek goreng,Non-Vegetarian
+417,319.0,6.9,31.7,0.0,Ikan Asin sirinding goreng,Non-Vegetarian
+418,430.0,33.4,32.4,0.0,Ikan Asin teri goreng,Non-Vegetarian
+419,198.0,19.0,13.0,0.0,Ikan Bader (Tawes),Non-Vegetarian
+420,107.0,16.5,3.9,1.5,Ikan balong segar,Non-Vegetarian
+421,112.0,20.0,1.3,3.7,Ikan bambangan segar,Non-Vegetarian
+422,129.0,20.0,4.8,0.0,Ikan Bandeng,Non-Vegetarian
+423,296.0,17.1,20.3,11.3,Ikan bandeng presto masakan,Non-Vegetarian
+424,111.0,19.4,0.9,4.8,Ikan banjar segar,Non-Vegetarian
+425,78.0,14.5,0.6,3.7,Ikan baronang segar,Non-Vegetarian
+426,144.0,17.8,5.8,5.2,Ikan baung bakar,Non-Vegetarian
+427,123.0,15.1,5.5,3.3,Ikan baung segar,Non-Vegetarian
+428,96.0,19.0,1.7,0.0,Ikan Bawal,Non-Vegetarian
+429,138.0,14.0,0.7,7.4,Ikan Bekasang,Non-Vegetarian
+430,128.0,18.0,3.0,7.2,Ikan Belida bakar,Non-Vegetarian
+431,80.0,14.7,1.4,2.2,Ikan Belida segar,Non-Vegetarian
+432,417.0,25.9,19.4,32.0,Ikan Belut Segar goreng,Non-Vegetarian
+433,82.0,6.7,1.0,10.9,Ikan Belut Segar mentah,Non-Vegetarian
+434,66.0,14.0,0.0,0.0,Ikan Beunteur,Non-Vegetarian
+435,90.0,14.9,2.5,2.1,Ikan biawan segar,Non-Vegetarian
+436,88.0,14.2,0.7,6.2,Ikan bili segar,Non-Vegetarian
+437,100.0,14.7,2.4,4.9,Ikan bubara segar,Non-Vegetarian
+438,134.0,25.5,1.3,5.0,Ikan bulan-bulan segar,Non-Vegetarian
+439,204.0,34.2,5.6,1.9,Ikan cakalang asap mentah,Non-Vegetarian
+440,198.0,36.5,2.2,5.5,Ikan cakalang asin mentah,Non-Vegetarian
+441,120.0,11.3,3.9,10.0,Ikan cakalang hati segar,Non-Vegetarian
+442,116.0,11.2,1.2,10.2,Ikan cakalang jantung segar,Non-Vegetarian
+443,86.0,10.2,1.1,8.7,Ikan cakalang perut segar,Non-Vegetarian
+444,107.0,19.6,0.7,5.5,Ikan cakalang segar,Non-Vegetarian
+445,81.0,11.4,1.9,3.8,Ikan calo/ peda mentah,Non-Vegetarian
+446,101.0,11.5,4.1,4.6,Ikan daun segar,Non-Vegetarian
+447,109.0,17.0,4.0,0.0,Ikan Ekor Kuning,Non-Vegetarian
+448,261.0,38.1,2.3,21.9,Ikan Gabus asap mentah,Non-Vegetarian
+449,292.0,58.0,4.0,0.0,Ikan Gabus kering,Non-Vegetarian
+450,74.0,25.2,1.7,0.0,Ikan Gabus segar,Non-Vegetarian
+451,267.0,23.1,19.4,0.2,Ikan gete goreng,Non-Vegetarian
+452,101.0,10.3,3.7,6.7,Ikan hitam segar,Non-Vegetarian
+453,298.0,46.3,3.6,20.2,Ikan hiu kering,Non-Vegetarian
+454,57.0,10.7,0.3,2.2,Ikan hiu segar,Non-Vegetarian
+455,77.0,15.6,0.9,1.6,Ikan kacangan segar,Non-Vegetarian
+456,92.0,20.0,0.7,0.0,Ikan kakap segar,Non-Vegetarian
+457,82.0,11.4,1.2,6.4,Ikan kakatua segar,Non-Vegetarian
+458,132.0,17.0,6.7,0.8,Ikan kapar segar,Non-Vegetarian
+459,162.0,31.7,2.8,0.3,Ikan katombo asin,Non-Vegetarian
+460,110.0,12.6,4.2,5.4,Ikan kawalinya segar,Non-Vegetarian
+461,302.0,70.7,1.9,0.4,Ikan kayu kering,Non-Vegetarian
+462,103.0,22.0,1.0,0.0,Ikan Kembung,Non-Vegetarian
+463,70.0,10.8,0.7,5.2,Ikan kima segar,Non-Vegetarian
+464,147.0,17.5,6.5,5.4,Ikan Lais bakar,Non-Vegetarian
+465,109.0,22.0,1.7,0.0,Ikan Layang,Non-Vegetarian
+466,82.0,18.0,1.0,0.4,Ikan layur segar,Non-Vegetarian
+467,90.0,20.4,0.9,0.0,Ikan lehoma segar,Non-Vegetarian
+468,252.0,19.9,19.1,0.0,Ikan Lele goreng,Non-Vegetarian
+469,112.0,20.0,3.0,0.0,Ikan Lemuru,Non-Vegetarian
+470,104.0,15.6,3.2,2.0,Ikan lidah segar,Non-Vegetarian
+471,258.0,40.3,2.3,18.9,Ikan lomak asin mentah,Non-Vegetarian
+472,99.0,20.6,1.4,0.9,Ikan malalugis segar,Non-Vegetarian
+473,86.0,16.0,2.0,0.0,Ikan Mas,Non-Vegetarian
+474,188.0,19.3,12.2,0.0,Ikan Mas goreng,Non-Vegetarian
+475,209.0,15.2,11.3,11.8,Ikan Mas pepes,Non-Vegetarian
+476,97.0,17.9,2.0,0.4,Ikan mayong segar,Non-Vegetarian
+477,598.0,74.3,26.9,9.2,Ikan Mujair dendeng goreng,Non-Vegetarian
+478,582.0,68.3,15.2,37.2,Ikan Mujair dendeng mentah,Non-Vegetarian
+479,416.0,46.9,23.9,0.0,Ikan Mujair goreng,Non-Vegetarian
+480,121.0,21.7,2.8,0.8,Ikan Mujair pepes,Non-Vegetarian
+481,89.0,18.7,1.0,0.0,Ikan Mujair segar,Non-Vegetarian
+482,154.0,16.8,5.0,10.5,Ikan nasu metti segar,Non-Vegetarian
+483,125.0,21.3,3.4,2.2,Ikan oci kembung segar,Non-Vegetarian
+484,152.0,17.6,6.1,6.7,Ikan Papuyu bakar,Non-Vegetarian
+485,120.0,14.3,4.9,4.6,Ikan papuyu/ betok segar,Non-Vegetarian
+486,144.0,17.5,6.3,4.3,Ikan Patin bakar,Non-Vegetarian
+487,132.0,17.0,6.6,1.1,Ikan Patin segar,Non-Vegetarian
+488,156.0,28.0,4.0,2.0,Ikan peda banjar mentah,Non-Vegetarian
+489,176.0,32.0,4.4,0.0,Ikan Pepetek,Non-Vegetarian
+490,157.0,28.0,4.2,1.8,Ikan Pindang banjar mentah,Non-Vegetarian
+491,170.0,31.0,4.2,0.0,Ikan Pindang benggol mentah,Non-Vegetarian
+492,153.0,30.0,2.8,0.0,Ikan Pindang layang mentah,Non-Vegetarian
+493,142.0,27.0,3.0,0.0,Ikan Pindang selar mentah,Non-Vegetarian
+494,415.0,61.3,17.6,2.9,Ikan sale lais mentah,Non-Vegetarian
+495,534.0,40.2,39.3,4.9,Ikan Sale segar,Non-Vegetarian
+496,284.0,34.1,9.9,14.6,Ikan saluang kering mentah,Non-Vegetarian
+497,113.0,13.9,4.9,3.4,Ikan saluang segar,Non-Vegetarian
+498,240.0,21.7,7.7,20.7,Ikan sanggang masakan,Non-Vegetarian
+499,109.0,19.9,1.8,3.4,Ikan sarden segar,Non-Vegetarian
+500,113.0,17.0,4.5,0.0,Ikan Segar,Non-Vegetarian
+501,194.0,38.0,3.5,0.0,Ikan Selar kering,Non-Vegetarian
+502,138.0,27.0,3.3,0.0,Ikan selar kuning cue mentah,Non-Vegetarian
+503,100.0,18.8,2.2,0.0,Ikan selar segar,Non-Vegetarian
+504,289.0,38.0,14.0,0.0,Ikan Sepat kering,Non-Vegetarian
+505,84.0,15.2,0.6,4.7,Ikan sepat segar,Non-Vegetarian
+506,81.0,11.4,1.9,3.8,Ikan sidat segar,Non-Vegetarian
+507,199.0,34.1,3.8,7.1,Ikan sunu asin mentah,Non-Vegetarian
+508,111.0,13.3,3.4,6.7,Ikan sunu segar,Non-Vegetarian
+509,88.0,15.9,0.9,4.1,Ikan tahuman segar,Non-Vegetarian
+510,96.0,19.5,1.1,2.0,Ikan tarmon segar,Non-Vegetarian
+511,95.0,15.8,0.7,6.5,Ikan telan segar,Non-Vegetarian
+512,358.0,20.7,26.4,9.4,Ikan telur asin mentah,Non-Vegetarian
+513,204.0,16.0,15.0,0.0,Ikan Tembang,Non-Vegetarian
+514,101.0,15.1,4.1,1.0,Ikan tempahas segar,Non-Vegetarian
+515,316.0,60.1,6.5,22.4,Ikan tepung mentah,Non-Vegetarian
+516,98.0,19.6,1.7,1.0,Ikan terbang segar,Non-Vegetarian
+517,277.0,60.0,2.3,1.8,Ikan Teri bubuk,Non-Vegetarian
+518,170.0,33.4,3.0,0.0,Ikan Teri kering,Non-Vegetarian
+519,331.0,68.7,4.2,0.0,Ikan Teri Kering tawar,Non-Vegetarian
+520,144.0,32.5,0.6,0.0,Ikan Teri Nasi kering,Non-Vegetarian
+521,74.0,10.3,1.4,4.1,Ikan teri segar,Non-Vegetarian
+522,347.0,48.8,6.4,19.6,Ikan Teri tepung,Non-Vegetarian
+523,82.0,17.4,0.4,2.3,Ikan titang segar,Non-Vegetarian
+524,100.0,13.7,1.5,8.0,Ikan tongkol segar,Non-Vegetarian
+525,96.0,19.2,2.0,0.2,Ikan turi segar,Non-Vegetarian
+526,474.0,7.6,21.6,62.3,Intip goreng,Vegan
+527,496.0,30.3,33.5,18.4,Itik alabio daging dendeng mentah,Non-Vegetarian
+528,156.0,2.7,1.3,33.3,Jagung grontol,Vegan
+529,361.0,8.7,4.5,72.4,Jagung Kuning giling,Vegan
+530,129.0,4.1,1.3,30.3,Jagung Kuning muda,Vegan
+531,307.0,7.9,3.4,63.6,Jagung Kuning pipil baru,Vegan
+532,366.0,9.8,7.3,69.1,Jagung kuning pipil kering mentah,Vegan
+533,355.0,9.2,3.9,73.7,Jagung Kuning pipil lama,Vegan
+534,154.0,3.8,3.5,28.4,Jagung kuning pipil rebus,Vegan
+535,140.0,4.7,1.3,33.1,Jagung Kuning segar,Vegan
+536,355.0,9.2,3.9,73.7,Jagung kuning tepung,Vegan
+537,35.0,2.2,0.1,7.4,Jagung muda,Vegan
+538,147.0,5.1,0.7,31.5,Jagung muda kuning mentah,Vegan
+539,142.0,5.0,0.7,30.3,Jagung muda rebus,Vegan
+540,367.0,6.2,5.1,76.2,Jagung pipil var. harapan kering,Vegan
+541,368.0,5.5,4.6,78.0,Jagung pipil var. metro kering,Vegan
+542,361.0,8.7,4.5,72.4,Jagung Putih giling,Vegan
+543,129.0,4.1,1.3,30.3,Jagung Putih muda,Vegan
+544,307.0,7.9,3.4,63.6,Jagung Putih pipil baru,Vegan
+545,355.0,9.2,3.9,73.7,Jagung Putih pipil lama,Vegan
+546,140.0,4.7,1.3,33.1,Jagung Putih segar,Vegan
+547,175.0,1.8,1.8,35.0,Jagung Rebus ,Vegan
+548,148.9,10.4,10.4,20.1,Jagung Sayur (tumis) ,Vegan
+549,374.0,9.4,2.2,79.1,Jagung titi,Vegan
+550,51.0,1.5,1.0,10.1,Jahe,Vegan
+551,289.0,11.0,4.0,61.0,Jali,Vegan
+552,239.0,0.5,0.6,64.5,Jam selai,Vegan
+553,286.0,48.5,9.2,2.3,Jambal goreng,Non-Vegetarian
+554,46.0,0.6,0.0,11.8,Jambu Air,Vegan
+555,49.0,0.9,0.3,12.2,Jambu Biji,Vegan
+556,61.0,0.9,0.3,15.4,Jambu biji putih tidak berbiji,Vegan
+557,56.0,0.6,0.3,14.2,Jambu Bol,Vegan
+558,64.0,0.7,0.6,15.8,Jambu Monyet buah,Vegan
+559,350.0,6.2,1.4,78.2,Jampang huma mentah,Vegan
+560,45.0,2.5,3.9,0.0,Jamur Coklat (kulat siau),Vegan
+561,296.0,9.4,1.1,62.0,Jamur encik,Vegan
+562,294.0,16.0,0.9,64.6,Jamur kuping kering,Vegan
+563,21.0,3.8,0.6,0.9,Jamur kuping segar,Vegan
+564,30.0,3.5,0.2,4.0,Jamur merang segar,Vegan
+565,48.0,2.8,4.1,2.9,Jamur Putih (kulat putih),Vegan
+566,48.0,1.9,3.2,2.8,Jamur sagu,Vegan
+567,30.0,1.9,0.1,5.5,Jamur tiram segar,Vegan
+568,107.0,5.3,2.2,16.5,Jangang bintatoeng masakan,Non-Vegetarian
+569,31.0,1.2,0.3,7.1,Jantung Pisang segar,Vegan
+570,500.0,1.2,25.1,67.3,Japilus,Vegan
+571,48.0,2.5,4.2,0.0,Jaruk Tigarun,Vegan
+572,334.0,9.7,3.5,73.4,Jawawut,Vegan
+573,381.7,9.5,9.5,65.8,Jenang ,Vegan
+574,192.0,5.4,0.3,40.7,Jengkol segar,Vegan
+575,48.0,0.6,0.2,12.4,Jeruk Bali,Vegan
+576,61.0,0.8,0.2,14.1,Jeruk banjar segar,Vegan
+577,44.0,0.8,0.3,10.9,Jeruk Garut,Vegan
+578,39.0,0.3,0.3,8.9,Jeruk Kalamansi segar,Vegan
+579,45.0,0.9,0.2,11.2,Jeruk Manis,Vegan
+580,37.0,0.8,0.1,12.3,Jeruk Nipis,Vegan
+581,49.0,0.7,0.2,11.1,Jeruk ragi segar,Vegan
+582,32.0,1.9,0.3,7.1,Jotang,Vegan
+583,15.0,15.2,4.3,8.8,Jukku pallu kaloa masakan,Non-Vegetarian
+584,130.0,6.7,0.3,25.2,Kabau segar,Non-Vegetarian
+585,133.0,1.0,0.2,32.2,Kaburan ubi segar,Vegan
+586,250.0,2.6,2.5,35.4,Kabuto,Non-Vegetarian
+587,356.0,20.5,4.1,61.6,Kacang Andong,Vegan
+588,330.0,23.8,1.4,60.2,Kacang Arab,Vegan
+589,533.0,27.8,38.1,28.8,Kacang atom,Vegan
+590,341.0,30.4,3.2,51.3,Kacang babi kering,Non-Vegetarian
+591,400.0,34.4,16.9,34.1,Kacang belimbing (kecipir) kering,Vegan
+592,204.0,16.9,8.8,17.5,Kacang Belimbing rebus,Vegan
+593,212.0,17.5,10.0,12.9,Kacang Belimbing tempe,Vegan
+594,118.0,4.4,1.5,21.6,Kacang beracun segar,Vegan
+595,479.0,12.7,23.2,58.9,Kacang Bogor goreng,Vegan
+596,370.0,16.0,6.0,65.0,Kacang bogor kering,Vegan
+597,161.0,7.7,2.8,27.1,Kacang Bogor rebus,Vegan
+598,165.0,7.7,3.1,27.4,Kacang bogor segar,Vegan
+599,331.0,25.0,1.0,58.0,Kacang Endel biji,Vegan
+600,129.0,12.4,0.7,18.3,Kacang ercis segar,Vegan
+601,336.0,23.1,1.7,59.5,kacang galing segar,Vegan
+602,516.0,14.7,31.1,44.4,Kacang goyang,Vegan
+603,336.0,20.7,1.4,62.0,Kacang Gude biji,Vegan
+604,316.0,20.7,1.0,58.0,Kacang gude biji kering,Vegan
+605,114.0,7.0,0.6,20.8,Kacang Gude biji muda,Vegan
+606,123.0,8.4,0.6,1.8,Kacang Gude muda,Vegan
+607,147.0,9.0,0.5,27.5,Kacang gude rebus,Vegan
+608,323.0,22.9,1.5,56.8,Kacang hijau kering,Vegan
+609,109.0,8.7,0.5,18.3,kacang hijau rebus,Vegan
+610,350.0,17.1,1.8,70.7,Kacang hijau var. bakti kering,Vegan
+611,339.0,20.8,2.1,64.6,Kacang hijau var. siwalik kering,Vegan
+612,346.0,16.6,1.7,66.1,Kacang hitam kering,Vegan
+613,345.0,22.2,1.2,62.9,Kacang Ijo,Vegan
+614,445.0,11.0,11.0,65.5,Kacang Kapri Goreng ,Vegan
+615,98.0,6.7,0.4,17.7,Kacang Kapri muda,Vegan
+616,286.0,30.2,15.6,30.1,Kacang Kedelai basah,Vegan
+617,521.0,32.2,37.7,22.9,Kacang kedelai goreng,Vegan
+618,381.0,40.4,16.7,24.9,Kacang kedelai kering,Vegan
+619,75.0,4.1,2.1,10.7,Kacang Kedelai kukus,Vegan
+620,189.0,20.2,8.2,12.7,Kacang kedelai rebus,Vegan
+621,286.0,30.2,15.6,30.1,Kacang kedelai segar,Vegan
+622,327.0,16.4,4.3,55.8,Kacang komak segar,Vegan
+623,355.0,17.0,2.5,66.0,Kacang kuning kering,Vegan
+624,346.0,16.5,1.5,66.6,Kacang lebui /iris kering,Vegan
+625,22.0,1.1,1.0,3.4,Kacang mekah polong segar,Vegan
+626,344.0,16.7,2.1,64.6,Kacang mentega kering,Vegan
+627,336.0,23.1,1.7,59.5,Kacang Merah,Vegan
+628,350.0,13.9,3.0,66.9,Kacang merah /banda kering,Vegan
+629,314.0,22.1,1.1,56.2,Kacang merah kering,Vegan
+630,158.0,10.3,0.9,28.2,Kacang Merah kering rebus,Vegan
+631,171.0,11.0,2.2,28.0,Kacang merah segar,Vegan
+632,144.0,10.0,1.0,24.7,Kacang Merah segar rebus,Vegan
+633,280.0,16.7,1.6,63.2,Kacang merah tua kering,Vegan
+634,629.0,20.4,56.3,19.8,Kacang mete/biji jambu monyet goreng,Vegan
+635,616.0,16.3,48.4,28.7,Kacang mete/biji jambu monyet segar,Vegan
+636,480.0,18.4,19.1,58.5,Kacang negara,Vegan
+637,44.0,2.7,0.3,7.8,Kacang Panjang,Vegan
+638,357.0,17.3,1.5,70.0,Kacang Panjang biji,Vegan
+639,39.0,3.0,0.6,7.6,Kacang Panjang kukus,Vegan
+640,150.0,2.5,12.5,7.0,Kacang Panjang tumis,Vegan
+641,37.0,3.1,0.2,7.9,Kacang ranti polong,Vegan
+642,484.0,8.8,26.1,57.7,Kacang sukro,Vegan
+643,488.0,25.6,25.6,59.6,Kacang Sukro Putih ,Vegan
+644,535.0,27.8,38.1,28.8,Kacang Tanah atom,Vegan
+645,564.0,25.5,44.4,25.5,Kacang tanah goreng,Vegan
+646,561.0,25.5,43.8,26.0,Kacang Tanah kacang sari,Vegan
+647,525.0,27.9,42.7,17.4,Kacang tanah kering,Vegan
+648,385.0,14.0,31.0,13.0,Kacang Tanah Rebus ,Vegan
+649,360.0,13.5,31.2,12.8,Kacang Tanah rebus berkulit,Vegan
+650,513.0,17.5,32.5,44.3,Kacang Tanah rempeyek,Vegan
+651,569.0,28.8,48.4,15.8,Kacang Tanah sangan berselaput,Vegan
+652,559.0,26.9,44.2,23.6,Kacang tanah sangan tanpa selaput,Vegan
+653,561.0,25.5,43.8,26.0,Kacang tanah sari,Vegan
+654,748.0,20.8,20.8,124.8,Kacang Telur ,Vegan
+655,331.0,24.4,1.9,56.6,Kacang tolo / tunggak kering,Vegan
+656,138.0,10.7,1.1,22.6,Kacang tolo rebus,Vegan
+657,342.0,22.9,1.4,61.6,Kacang Tunggak (tolo),Vegan
+658,138.0,10.7,1.1,22.6,Kacang Tunggak rebus,Vegan
+659,451.0,11.2,20.2,59.7,Kacang Tunggak rempeyek,Vegan
+660,351.0,12.2,1.2,72.9,Kacang tunis kering,Vegan
+661,358.0,23.4,2.4,60.6,Kacang uci kering,Vegan
+662,354.0,12.8,1.8,69.3,Kacang urei kering,Vegan
+663,110.0,4.5,6.9,7.1,Kadada katembe,Vegan
+664,413.0,28.7,19.8,29.8,Kaholeo masakan,Non-Vegetarian
+665,92.0,20.0,0.7,0.0,Kakap,Non-Vegetarian
+666,66.0,2.8,6.8,3.4,Kalakai,Non-Vegetarian
+667,163.0,16.5,9.0,4.1,Kalio jeroan masakan,Non-Vegetarian
+668,122.0,13.8,5.7,3.9,Kalio kikil (tunjang) masakan,Non-Vegetarian
+669,157.0,8.1,8.8,11.4,Kalio otak masakan,Non-Vegetarian
+670,193.0,10.6,12.4,9.7,Kalio telur masakan,Non-Vegetarian
+671,149.0,16.6,9.2,0.0,Kambing daging segar,Non-Vegetarian
+672,164.0,3.0,2.4,32.6,Kambose,Non-Vegetarian
+673,29.0,3.0,0.3,5.4,Kangkung,Vegan
+674,30.0,3.2,0.7,4.7,Kangkung kukus,Vegan
+675,22.0,2.5,0.6,3.1,Kangkung rebus,Vegan
+676,43.0,1.8,0.2,8.4,Kangkung tondano,Vegan
+677,52.0,1.8,3.6,3.0,Kangkung tumis,Vegan
+678,38.0,2.4,2.0,2.6,Kaparende sayur,Vegan
+679,42.0,3.3,0.2,9.6,Kapri Muda,Vegan
+680,41.0,2.0,0.3,7.8,Kapurung,Vegan
+681,158.0,4.4,3.2,27.8,Kapusa,Vegan
+682,25.0,2.3,0.2,3.5,Karawila,Vegan
+683,146.7,5.9,5.9,19.7,Karedok ,Vegan
+684,92.0,2.2,3.3,14.1,Karedok sayur,Vegan
+685,292.0,11.2,11.2,2.8,Karoket ,Vegan
+686,73.0,16.4,0.3,0.0,Katak,Non-Vegetarian
+687,275.0,12.6,14.8,54.6,Katul Beras,Vegan
+688,356.0,9.0,8.5,64.5,Katul Jagung,Vegan
+689,120.0,3.5,2.5,20.8,Kawista segar,Vegan
+690,46.0,5.7,1.3,9.0,Kecap,Vegan
+691,464.0,1.2,18.6,73.0,Kecimpring singkong goreng,Vegan
+692,405.0,32.8,17.0,36.5,Kecipir biji,Vegan
+693,35.0,2.9,0.2,0.8,Kecipir buah muda,Vegan
+694,32.0,2.9,0.2,5.8,Kecipir muda segar,Vegan
+695,34.0,0.9,1.0,6.7,Kecombrang segar,Vegan
+696,47.0,0.5,0.2,10.4,Kedondong segar ,Vegan
+697,326.0,22.8,20.3,13.1,Keju,Vegetarian
+698,590.0,27.0,49.0,20.9,Keju Kacang Tanah,Vegetarian
+699,623.0,2.0,52.1,36.5,Kelapa hutan kering,Vegan
+700,17.0,0.2,0.1,3.8,Kelapa Muda air,Vegan
+701,68.0,1.0,0.9,14.0,Kelapa Muda daging,Vegan
+702,180.0,4.0,15.0,10.0,Kelapa Setengah Tua daging,Vegan
+703,359.0,3.4,34.7,14.0,Kelapa Tua daging,Vegan
+704,214.0,5.4,5.4,40.2,Kelepon ,Vegan
+705,111.0,1.5,0.3,27.2,Kelewih,Vegan
+706,142.0,16.9,7.8,0.0,Kelinci daging segar,Non-Vegetarian
+707,48.0,1.0,0.2,11.9,Kemang,Vegan
+708,380.0,48.9,13.8,23.3,Kembang tahu,Vegan
+709,44.0,1.8,0.6,9.6,Kembang Turi,Vegan
+710,636.0,19.0,63.0,8.0,Kemiri,Vegan
+711,657.0,15.0,66.0,13.0,Kenari,Vegan
+712,616.0,13.9,56.2,13.7,Kenari banda kering,Vegan
+713,83.0,2.0,0.1,19.1,Kentang,Vegan
+714,142.0,0.9,0.4,33.7,Kentang Hitam,Vegan
+715,64.0,12.0,1.0,2.0,Keong,Non-Vegetarian
+716,204.0,2.6,20.0,4.0,Kepala Susu (Krim),Vegetarian
+717,151.0,13.8,3.8,14.1,Kepiting,Non-Vegetarian
+718,59.0,18.0,1.1,3.6,Kerang,Non-Vegetarian
+719,393.0,38.9,13.3,29.4,Kerang asap mentah,Non-Vegetarian
+720,357.0,41.1,10.0,25.6,Kerang dendeng mentah,Non-Vegetarian
+721,79.0,18.7,0.5,0.0,Kerbau daging segar,Non-Vegetarian
+722,475.0,1.6,25.5,64.4,Keremes,Vegan
+723,137.0,1.3,1.1,29.8,Keribang ubi segar,Vegan
+724,586.0,4.9,40.6,50.2,Keripik bayam,Vegan
+725,446.0,2.8,14.5,76.0,Keripik gadung,Vegan
+726,448.0,2.7,18.8,67.1,Keripik kentang,Vegan
+727,485.0,1.7,22.2,69.7,Keripik lampung,Vegan
+728,598.0,8.3,43.8,42.6,Keripik oncom,Vegan
+729,478.0,0.9,20.7,72.0,Keripik singkong,Vegan
+730,481.0,2.2,19.7,73.6,Keripik singkong berbumbu,Vegan
+731,581.0,12.1,40.6,41.7,Keripik tempe,Vegan
+732,542.0,40.3,42.4,11.6,Keripik tempe abadi murni,Vegan
+733,510.0,12.3,27.9,52.4,Keripik tempe abadi sedang,Vegan
+734,529.0,20.8,31.7,40.2,Keripik tempe abadi telur,Vegetarian
+735,486.0,0.2,23.9,67.6,Keripik ubi,Vegan
+736,26.0,1.7,0.4,3.8,Kerokot segar,Vegan
+737,350.0,0.5,0.2,85.9,Kerupuk Aci,Vegan
+738,444.0,6.9,14.6,71.3,Kerupuk cumi goreng,Non-Vegetarian
+739,342.0,16.0,0.4,65.6,Kerupuk Ikan berpati,Non-Vegetarian
+740,325.0,1.8,0.4,78.5,Kerupuk kemplang  (ikan) mentah,Non-Vegetarian
+741,504.0,5.6,28.1,57.1,Kerupuk kemplang goreng,Non-Vegetarian
+742,356.0,9.7,1.1,76.9,Kerupuk kemplang panggang,Non-Vegetarian
+743,422.0,83.0,4.0,0.0,Kerupuk Kulit kerbau,Non-Vegetarian
+744,345.0,12.0,1.5,71.5,Kerupuk Melinjo mentah,Vegan
+745,431.0,11.1,16.2,63.0,Kerupuk Melinjo tebal goreng asin,Vegan
+746,439.0,10.0,16.4,65.7,Kerupuk Melinjo tebal goreng manis,Vegan
+747,485.0,11.5,24.5,59.1,Kerupuk Melinjo tipis goreng,Vegan
+748,476.0,0.1,21.1,71.3,Kerupuk mie kuning goreng,Vegan
+749,46.7,17.3,17.3,81.3,Kerupuk Sayong ,Vegan
+750,340.0,30.0,30.0,52.0,Kerupuk Udang ,Non-Vegetarian
+751,359.0,17.2,68.2,332.0,Kerupuk Udang berpati,Non-Vegetarian
+752,477.0,4.7,20.5,68.5,Kerupuk udang goreng,Non-Vegetarian
+753,588.0,53.7,40.9,1.2,Kerupuk urat,Non-Vegetarian
+754,78.0,0.8,0.4,20.0,Kesemek,Vegan
+755,181.0,4.0,1.2,37.3,Ketan hitam matang,Vegan
+756,163.0,3.0,0.4,35.7,Ketan putih matang,Vegan
+757,340.0,11.0,11.0,54.0,Ketapang ,Vegan
+758,157.0,0.8,0.3,37.9,Ketela Pohon Kuning,Vegan
+759,154.0,1.0,0.3,36.8,Ketela singkong segar,Vegan
+760,153.0,1.2,0.3,36.4,Ketela pohon/singkong kukus,Vegan
+761,12.0,0.7,0.1,2.7,Ketimun,Vegan
+762,9.0,0.5,0.1,1.9,Ketimun madura segar,Vegan
+763,153.0,7.9,7.7,13.0,Ketoprak,Vegan
+764,404.0,14.1,16.1,54.2,Ketumbar,Vegan
+765,212.0,4.0,4.6,38.6,Ketupat ketan,Vegan
+766,109.6,2.6,2.6,18.6,Ketupat Tahu ,Vegetarian
+767,310.0,10.0,24.0,13.5,Kluwek,Vegan
+768,73.0,16.4,0.3,0.0,Kodok segar,Non-Vegetarian
+769,86.0,1.6,0.2,13.0,Kokosan,Vegan
+770,99.0,3.3,0.1,21.2,Komak polong segar,Vegan
+771,25.0,2.4,0.2,4.9,Kool Kembang,Vegan
+772,24.0,1.4,0.2,5.3,Kool Merah kool putih,Vegan
+773,352.0,17.4,1.3,69.0,Kopi bagian yang larut,Vegan
+774,129.0,12.3,0.5,35.0,Kopi bubuk instant,Vegan
+775,356.0,20.5,4.1,61.6,Koro andong kering,Vegan
+776,332.0,24.0,3.0,55.0,Koro Benguk biji,Vegan
+777,141.0,10.2,1.3,23.2,Koro Benguk tempe,Vegan
+778,125.0,8.3,0.7,22.1,Koro Kerupuk biji,Vegan
+779,33.0,2.7,0.2,7.9,Koro Loke biji,Vegan
+780,344.0,12.5,2.1,69.4,Koro Roway biji,Vegan
+781,338.0,22.2,1.5,61.0,Koro Wedus biji,Vegan
+782,38.0,3.0,0.3,7.9,Koro Wedus buah muda,Vegan
+783,46.0,3.0,0.3,7.9,Koro wedus polong,Vegan
+784,46.0,2.2,1.5,6.0,Kotiu hinela tawang nggole,Vegan
+785,366.0,4.2,4.3,77.5,Koya,Vegan
+786,370.0,8.0,1.0,82.2,Koya mirasa,Vegan
+787,315.0,2.1,1.4,73.5,Kranji segar,Vegan
+788,542.0,40.3,42.4,11.5,Kripik Tempe Goreng ,Vegan
+789,21.0,1.7,0.4,3.8,Krokot,Vegan
+790,45.0,2.2,0.3,10.3,Kucai,Vegan
+791,42.0,3.8,0.6,7.8,Kucai Muda (Lokio),Vegan
+792,113.0,18.1,4.1,0.9,Kuda daging segar,Non-Vegetarian
+793,440.0,3.8,18.5,64.5,Kue ali,Vegetarian
+794,186.7,1.6,1.6,39.6,Kue Apem ,Vegetarian
+795,338.0,1.5,1.2,80.3,Kue bangket,Vegetarian
+796,240.0,1.0,4.0,54.0,Kue Bugis ,Vegetarian
+797,425.0,1.6,8.8,84.6,Kue jahe,Vegetarian
+798,591.0,5.6,42.1,47.5,Kue kelapa,Vegetarian
+799,366.0,4.2,4.3,7.9,Kue Koya ,Vegetarian
+800,291.0,3.6,11.1,44.1,Kue lumpur,Vegetarian
+801,182.0,1.0,1.0,40.4,Kue mangkok ,Vegetarian
+802,126.7,0.7,0.7,57.3,Kue Pacar Cina ,Vegetarian
+803,296.0,1.4,1.4,66.4,Kue Pia ,Vegetarian
+804,304.0,5.3,7.0,54.9,Kue putu cangkir,Vegan
+805,217.0,1.2,0.5,53.2,Kue putu singkong,Vegan
+806,393.3,2.7,2.7,79.3,Kue Satu ,Vegetarian
+807,380.0,1.0,1.0,92.0,Kue Semprong ,Vegetarian
+808,221.0,7.5,10.2,24.8,Kue sus,Vegetarian
+809,180.0,5.0,5.0,32.0,Kue Talam ,Vegetarian
+810,512.0,26.0,26.0,60.4,Kue Tambang ,Vegetarian
+811,247.0,2.9,4.2,49.5,Kue thipan,Vegetarian
+812,111.0,4.5,1.1,20.7,Kulit melinjo,Vegan
+813,22.0,0.4,0.2,4.7,Kundur segar,Vegan
+814,63.0,2.0,2.7,9.1,Kunyit,Vegan
+815,83.0,19.1,0.2,0.0,Kura-kura,Non-Vegetarian
+816,515.0,30.6,42.1,13.8,Kwaci,Vegan
+817,242.0,19.0,17.0,3.0,Kwark (Quark),Vegetarian
+818,17.0,0.6,0.2,3.8,Labu Air,Vegan
+819,51.0,1.7,0.5,10.0,Labu kuning segar,Vegan
+820,26.0,0.6,0.1,6.7,Labu Siam,Vegan
+821,32.0,1.1,0.1,6.6,Labu waluh segar,Vegan
+822,166.3,2.7,3.9,29.5,Laksa ,Vegetarian
+823,85.0,5.7,0.3,15.4,Lamtoro (pete cina) biji muda,Vegan
+824,148.0,10.6,0.5,26.2,Lamtoro biji tua,Vegan
+825,142.0,11.0,2.5,20.4,Lamtoro tempe,Vegan
+826,367.0,46.4,5.4,32.5,Lamtoro var. gung tanpa kulit,Vegan
+827,336.0,23.8,1.2,59.7,Lamtoro var. lokal dengan kulit,Vegan
+828,56.0,0.9,0.2,14.3,Langsat,Vegan
+829,34.0,2.2,0.3,5.5,Lantar segar,Vegan
+830,422.0,0.9,10.8,80.4,Lanting getuk,Vegan
+831,389.0,6.6,15.7,55.5,Lapis legit,Vegetarian
+832,174.0,17.0,10.0,3.0,Lawar babi masakan,Non-Vegetarian
+833,141.0,23.0,1.5,7.6,Lawar penyu masakan,Non-Vegetarian
+834,159.0,5.0,10.9,10.1,Lawara jangang masakan,Non-Vegetarian
+835,207.0,7.4,15.4,9.6,Lawara penjah masakan,Non-Vegetarian
+836,405.0,4.8,5.1,84.9,Ledre pisang,Vegan
+837,15.0,1.0,0.4,1.9,Lema/ Rebung asam,Vegan
+838,902.0,0.0,100.0,0.0,Lemak Babi,Non-Vegetarian
+839,630.0,9.1,65.0,1.1,Lemak Babi (Bacon),Non-Vegetarian
+840,372.0,12.0,29.4,14.4,Lemak ikan,Non-Vegetarian
+841,818.0,1.5,90.0,0.0,Lemak Kerbau,Non-Vegetarian
+842,34.0,0.5,0.8,6.2,Lemon segar,Vegan
+843,36.0,0.0,0.0,10.0,Lemon Squasih,Vegan
+844,30.0,0.0,0.0,8.0,Lemonade,Vegan
+845,221.3,3.8,3.6,43.4,Lemper ,Vegetarian
+846,320.0,3.5,5.7,63.7,Lempog durian,Vegan
+847,181.0,2.8,1.2,39.8,Lepok/Ubi rumput,Vegan
+848,33.0,1.9,0.1,7.4,Leunca buah,Vegan
+849,240.0,7.8,0.5,51.3,Leupeut Ketan ,Vegan
+850,387.0,16.0,22.0,3.0,Leverwost (sosis hati),Non-Vegetarian
+851,79.0,2.3,5.2,5.8,Lilin bungkus gedi,Vegan
+852,19.0,0.9,0.1,4.2,Lobak,Vegan
+853,217.0,11.0,1.7,5.1,Lokan segar,Non-Vegetarian
+854,27.0,0.4,0.2,6.0,Lontar segar,Vegan
+855,163.3,2.8,2.2,33.0,Lopis ,Vegan
+856,38.0,1.1,0.3,7.6,Lumai/Leunca segar,Vegan
+857,164.0,1.8,2.1,34.5,Lupis ketan,Vegan
+858,294.0,0.3,0.0,79.5,Madu,Vegetarian
+859,341.0,0.3,0.0,85.0,Maizena tepung,Vegan
+860,363.0,8.7,0.4,78.7,Makaroni,Vegan
+861,63.0,2.4,0.4,12.4,Mangga benggala segar,Vegan
+862,44.0,0.7,0.2,11.2,Mangga Gedong,Vegan
+863,63.0,0.5,0.2,16.7,Mangga Golek,Vegan
+864,46.0,0.4,0.2,11.9,Mangga Harum Manis,Vegan
+865,72.0,0.8,0.2,18.7,Mangga Indramayu,Vegan
+866,56.0,0.4,0.2,14.6,Mangga Kopek,Vegan
+867,86.0,0.7,0.5,19.8,Mangga kwini segar,Vegan
+868,133.0,1.0,0.1,32.1,Mangga manalagi segar,Vegan
+869,59.0,0.5,0.4,15.1,Mangga Muda,Vegan
+870,52.0,0.7,0.0,12.3,Mangga segar,Vegan
+871,63.0,0.6,0.6,15.6,Manggis,Vegan
+872,720.0,0.6,81.0,0.4,Margarin,Vegetarian
+873,144.0,3.5,1.2,29.8,Markisa segar,Vegan
+874,217.0,2.5,1.0,49.6,Markisa squash,Vegan
+875,104.0,1.2,0.5,23.7,Markisa squash BD,Vegan
+876,265.3,4.7,5.5,49.3,Martabak  manis,Vegetarian
+877,153.0,4.5,4.2,24.3,Martabak india,Vegetarian
+878,278.0,5.1,8.6,45.0,Martabak mesir,Vegetarian
+879,200.0,8.9,5.1,29.5,Martabak Telur ,Non-Vegetarian
+880,369.0,2.1,7.0,74.1,Masekat,Vegan
+881,90.0,1.2,0.1,21.1,Matoa segar,Vegan
+882,276.0,0.0,0.1,71.0,Melase,Vegan
+883,66.0,5.0,0.7,13.3,Melinjo,Vegan
+884,37.0,0.6,0.4,7.8,Melon segar,Vegan
+885,322.0,55.8,2.0,22.7,Menjangan daging dendeng mentah,Non-Vegetarian
+886,725.0,0.5,81.6,1.4,Mentega,Vegetarian
+887,65.0,1.7,0.2,16.1,Menteng,Vegan
+888,359.0,11.5,6.8,64.4,Merica,Vegan
+889,88.0,0.6,3.3,14.0,Mi basah,Vegan
+890,71.0,0.2,0.8,15.9,Mi golosor,Vegan
+891,339.0,10.0,1.7,6.3,Mi kering,Vegan
+892,113.0,3.0,3.2,18.1,Mie aceh rebus,Vegetarian
+893,102.0,6.2,3.9,10.5,Mie ayam,Non-Vegetarian
+894,114.0,5.3,3.0,16.4,Mie bakso,Non-Vegetarian
+895,86.0,0.6,3.3,14.0,Mie basah,Vegan
+896,353.0,0.3,0.0,88.0,Mie Bendo,Vegan
+897,102.0,3.0,2.1,17.8,Mie celon,Vegan
+898,468.0,7.6,20.4,62.4,Mie Goreng ,Vegan
+899,337.0,7.9,11.8,50.0,Mie kering,Vegan
+900,105.0,5.9,4.9,9.4,Mie pangsit basah,Non-Vegetarian
+901,190.0,0.2,0.4,46.5,Mie Sagu,Vegan
+902,902.0,0.0,100.0,0.0,Minyak Hati Hiu (Eulamia),Non-Vegetarian
+903,902.0,0.0,100.0,0.0,Minyak Ikan,Non-Vegetarian
+904,902.0,0.0,100.0,0.0,Minyak Kacang Tanah,Vegan
+905,883.0,0.0,99.9,0.0,Minyak kedelai,Vegan
+906,870.0,1.0,98.0,0.0,Minyak Kelapa,Vegan
+907,902.0,0.0,100.0,0.0,Minyak Kelapa Sawit,Vegan
+908,902.0,0.0,100.0,0.0,Minyak Wijen,Vegan
+909,884.0,0.0,100.0,0.0,Minyak Zaitun,Vegan
+910,345.0,8.5,2.2,78.0,Misoa,Vegan
+911,218.0,0.8,16.0,50.2,Misro ,Vegetarian
+912,128.0,8.0,10.0,1.3,Moon tahu,Vegan
+913,33.0,2.3,0.5,4.7,Mostarda metan -sawi,Vegan
+914,330.0,17.8,23.4,12.1,Mujahir acar kuning masakan,Non-Vegetarian
+915,478.0,38.3,33.9,5.1,Naan maran sapi masakan,Non-Vegetarian
+916,52.0,0.4,0.2,13.7,Nanas,Vegan
+917,58.0,0.7,0.2,13.3,Nanas palembang segar,Vegan
+918,165.0,4.2,0.1,36.7,Nangka biji,Vegan
+919,106.0,1.2,0.3,27.6,Nangka masak di pohon,Vegan
+920,51.0,2.0,0.4,11.3,Nangka Muda,Vegan
+921,180.0,3.0,0.3,39.8,Nasi,Vegan
+922,149.0,2.8,0.4,32.5,Nasi beras merah,Vegan
+923,192.0,3.8,8.8,24.4,Nasi gemuk,Vegan
+924,276.0,3.2,3.2,30.2,Nasi Goreng ,Vegetarian
+925,190.0,4.7,7.5,26.0,Nasi gurih,Vegetarian
+926,357.0,8.8,0.5,79.5,Nasi jagung,Vegan
+927,207.0,3.5,5.0,37.1,Nasi minyak,Vegetarian
+928,155.0,10.3,4.2,19.1,Nasi rames,Vegetarian
+929,120.0,2.4,0.4,26.0,Nasi tim,Vegetarian
+930,253.3,4.3,21.0,11.7,Nasi Uduk ,Vegetarian
+931,196.0,14.5,8.3,15.9,Nasu likku masakan,Non-Vegetarian
+932,600.0,14.0,41.7,42.0,Noga Kacang Tanah ,Vegan
+933,387.0,5.3,7.6,74.3,Nopia spesial,Vegan
+934,9.0,2.1,6.0,7.1,Olah-olah,Vegan
+935,187.0,13.0,6.0,22.6,Oncom,Vegan
+936,376.0,14.9,6.0,65.7,Oncom ampas kacang hijau,Vegan
+937,363.3,19.3,19.3,40.3,Oncom Goreng ,Vegan
+938,284.0,12.0,14.4,13.6,Oncom Hitam Goreng ,Vegan
+939,306.7,9.0,18.0,27.0,Oncom Hitam Goreng bertepung ,Vegan
+940,351.0,11.0,5.3,65.9,Oncom kacang hijau + singkong,Vegan
+941,132.0,12.7,3.8,13.7,Oncom Kacang Tanah pepes,Vegan
+942,187.0,13.0,6.0,22.6,Oncom Kedele,Vegan
+943,368.0,6.8,32.0,13.2,Oncom Merah Goreng ,Vegan
+944,320.0,7.3,18.7,31.0,Oncom Merah Goreng bertepung ,Vegan
+945,40.0,2.0,2.0,3.0,Oncom Merah Sayur (tumis) ,Vegan
+946,76.0,5.2,1.8,10.6,Oncom pepes,Vegan
+947,288.6,8.3,8.9,44.3,Onde-onde ,Vegan
+948,115.0,1.5,6.0,14.0,Ongol-ongol ,Vegan
+949,111.0,0.3,2.7,21.2,Ongol-ongol sagu,Vegan
+950,940.0,36.0,42.0,104.0,Opak Singkong ,Vegan
+951,117.0,13.7,5.0,4.3,Oramu ninahu ndawa olaho masakan,Non-Vegetarian
+952,125.0,10.4,8.6,0.8,Otak,Non-Vegetarian
+953,351.0,0.9,0.9,84.9,Oyek,Vegan
+954,342.0,2.3,0.1,83.1,Oyek (dari singkong),Vegan
+955,77.0,3.5,4.6,5.4,Paku hinela wulelenggapaya,Vegan
+956,494.0,7.5,36.4,40.1,Pala biji,Vegan
+957,42.0,0.3,0.2,10.9,Pala daging,Vegan
+958,460.0,28.5,35.2,7.2,Paniki masak santan masakan,Non-Vegetarian
+959,133.8,3.0,1.6,27.0,Papais ,Vegan
+960,61.0,0.2,0.1,14.9,Papeda,Vegan
+961,87.0,10.5,2.5,5.5,Parede baleh masakan,Non-Vegetarian
+962,29.0,1.1,0.3,6.6,Paria (Pare),Vegan
+963,16.0,0.8,0.2,3.4,Paria Putih kukus,Vegan
+964,19.0,1.0,0.4,3.6,Paria putih segar,Vegan
+965,307.0,4.5,13.3,42.4,Pastel,Vegetarian
+966,362.0,0.5,0.3,86.9,Pati Singkong (tapioka),Vegan
+967,23.0,1.8,0.3,4.5,Pe-Cay,Vegan
+968,156.0,28.0,4.0,0.0,Peda Ikan Banjar,Non-Vegetarian
+969,75.0,2.5,2.8,10.0,Pelecing kangkung,Vegan
+970,219.0,19.7,13.6,4.4,Pelepah manuk masakan,Non-Vegetarian
+971,162.0,4.9,3.0,27.8,Pempek adaan,Non-Vegetarian
+972,156.0,4.2,1.4,31.6,Pempek belida,Non-Vegetarian
+973,152.0,4.5,2.3,28.2,Pempek kapal selam,Non-Vegetarian
+974,211.0,12.3,6.1,26.6,Pempek kelesan,Non-Vegetarian
+975,243.0,5.2,7.3,39.1,Pempek kulit,Non-Vegetarian
+976,173.0,7.2,1.2,33.4,Pempek tenggiri,Non-Vegetarian
+977,372.0,7.8,36.3,3.5,Pencok lele masakan,Non-Vegetarian
+978,174.0,13.1,12.2,2.2,Penyu serapah masakan,Non-Vegetarian
+979,19.0,0.6,0.1,3.9,Pepare ular segar,Non-Vegetarian
+980,275.0,11.6,11.6,30.2,Pepaya lodeh,Vegan
+981,26.0,2.1,0.1,4.9,Pepaya Muda,Vegan
+982,46.0,0.5,12.0,12.2,Pepaya segar,Vegan
+983,76.0,5.2,1.8,10.6,Pepea oncom ampas tahu,Vegan
+984,400.0,0.0,0.0,95.0,Permen ,Vegan
+985,142.0,10.4,2.0,22.0,Pete Segar,Vegan
+986,50.0,3.7,1.0,9.0,Peterseli,Vegan
+987,161.0,20.0,0.2,24.0,Petis Ikan,Non-Vegetarian
+988,220.0,15.0,0.1,40.0,Petis Udang,Non-Vegetarian
+989,345.0,23.8,1.4,59.3,Petis udang kering,Non-Vegetarian
+990,220.0,15.0,0.9,38.0,Petis udang pasta,Non-Vegetarian
+991,514.0,1.0,27.8,647.0,Pilus ,Vegan
+992,107.0,15.9,0.6,0.4,Pinda masakan,Non-Vegetarian
+993,157.0,28.0,4.2,0.0,Pindang Ikan Banjar,Non-Vegetarian
+994,170.0,31.0,4.2,0.0,Pindang Ikan Benggol,Non-Vegetarian
+995,153.0,30.0,2.8,0.0,Pindang Ikan Layang,Non-Vegetarian
+996,142.0,27.0,3.0,0.0,Pindang Ikan Selar Kecil,Non-Vegetarian
+997,124.0,9.5,9.6,0.0,Pindang kenari masakan,Non-Vegetarian
+998,99.0,1.2,0.2,25.8,Pisang Ambon,Vegan
+999,68.0,1.3,0.2,17.2,Pisang angleng (pisang ampyang) segar,Vegan
+1000,120.0,1.1,0.2,26.8,Pisang ayam segar,Vegan
+1001,127.0,2.1,0.3,31.1,Pisang gapi segar ,Vegan
+1002,220.0,2.3,2.3,6.3,Pisang Goreng ,Vegetarian
+1003,115.0,1.9,0.2,27.9,Pisang goroho segar,Vegan
+1004,117.0,2.0,0.3,28.9,Pisang hijau segar,Vegan
+1005,100.0,1.4,0.5,23.6,Pisang kayu segar,Vegan
+1006,109.0,0.8,0.5,26.3,Pisang kepok segar,Vegan
+1007,145.0,1.1,0.3,34.5,Pisang ketip segar,Vegan
+1008,96.0,1.0,0.2,22.5,Pisang kidang segar,Vegan
+1009,99.0,1.3,0.2,25.6,Pisang Lampung,Vegan
+1010,127.0,1.4,0.2,33.6,Pisang Mas,Vegan
+1011,127.0,1.4,0.2,31.8,Pisang mas bali,Vegan
+1012,134.0,1.1,0.5,35.5,Pisang Oli,Vegan
+1013,120.0,1.2,0.2,31.8,Pisang Raja,Vegan
+1014,118.0,1.2,0.2,31.1,Pisang Raja Sere (Susu),Vegetarian
+1015,98.0,1.3,1.2,20.5,Pisang rotan segar,Vegan
+1016,625.0,1.0,0.0,8.1,Pisang Siam goreng,Vegetarian
+1017,113.0,1.2,0.2,26.7,Pisang talas segar,Vegan
+1018,45.0,2.2,0.3,10.3,Prey (bawang daun),Vegan
+1019,33.0,4.5,0.4,2.8,Pucuk lumai/daun leunca segar,Vegan
+1020,216.0,2.6,3.1,44.4,Pulut,Vegan
+1021,224.0,26.2,11.3,4.4,Punai daging goreng,Non-Vegetarian
+1022,104.0,1.9,4.1,15.1,Pundut nasi,Vegan
+1023,25.0,1.5,0.5,3.6,Purundawa,Vegan
+1024,76.0,4.1,1.1,15.2,Purut segar,Vegan
+1025,76.0,3.6,0.3,14.6,Putri malu segar,Vegan
+1026,163.0,2.2,6.5,23.8,Putri selat,Vegan
+1027,200.0,1.0,2.4,43.8,Putu Mayang ,Vegan
+1028,136.0,43.0,2.4,3.0,Ragi,Vegan
+1029,76.0,12.1,2.0,2.4,Rajungan segar,Non-Vegetarian
+1030,69.0,0.9,0.1,18.1,Rambutan,Vegan
+1031,11.0,0.0,0.0,2.7,Rambutan Aceh,Vegan
+1032,76.0,0.5,0.2,18.0,Rambutan binjai segar,Vegan
+1033,4.0,0.0,0.0,0.9,Rambutan sinyonya,Vegan
+1034,295.0,7.3,8.5,47.5,Rarawuan ,Vegan
+1035,394.0,2.2,8.8,76.6,Rasbi (Beras Ubi),Vegan
+1036,350.0,0.9,0.4,85.7,Rasi (Beras Singkong),Vegan
+1037,60.0,5.4,2.5,4.0,Rawon masakan,Non-Vegetarian
+1038,81.0,16.2,1.2,0.7,Rebon (udang kecil segar),Non-Vegetarian
+1039,299.0,29.4,3.6,3.2,Rebon kering,Non-Vegetarian
+1040,81.0,16.2,1.2,0.7,Rebon udang kecil segar,Non-Vegetarian
+1041,27.0,0.6,0.3,5.2,Rebung,Vegan
+1042,320.0,7.2,4.2,63.3,Rebung laut mentah,Non-Vegetarian
+1043,451.0,11.2,20.2,59.7,Rempeyek kacang tolo,Vegan
+1044,497.0,17.0,27.6,50.8,Rempeyek kacang uci,Vegan
+1045,193.0,22.6,7.9,7.8,Rendang sapi masakan,Non-Vegetarian
+1046,471.0,4.7,21.8,64.1,Renggi goreng,Non-Vegetarian
+1047,75.0,1.6,0.6,15.8,Rimbang segar,Vegan
+1048,335.0,5.3,3.5,70.5,Risoles ,Vegetarian
+1049,341.0,5.5,16.2,43.3,Roti boong,Vegetarian
+1050,350.0,7.5,2.0,75.5,Roti Gambang ,Vegetarian
+1051,248.0,8.0,1.2,50.0,Roti Putih,Vegetarian
+1052,249.0,7.9,1.5,49.7,Roti warna sawo matang,Vegetarian
+1053,153.0,11.3,8.4,8.0,Rujak cingur,Non-Vegetarian
+1054,41.0,1.4,0.3,8.1,Rumput laut,Vegan
+1055,536.0,40.5,41.5,0.0,Rusa daging dendeng mentah,Non-Vegetarian
+1056,110.0,11.5,2.0,11.7,Rusip,Non-Vegetarian
+1057,198.0,24.6,10.7,0.9,RW anjing masakan,Non-Vegetarian
+1058,449.0,30.6,25.5,31.9,Saga biji tanpa kulit,Vegan
+1059,338.0,0.6,0.3,83.1,Sagu Ambon ,Vegan
+1060,355.0,0.6,1.1,85.6,Sagu aren kering,Vegan
+1061,231.0,0.6,0.2,56.6,Sagu aren segar,Vegan
+1062,291.0,0.5,4.0,63.4,Sagu forno,Vegan
+1063,230.0,0.6,0.2,56.5,Sagu kasbi segar,Vegan
+1064,452.0,2.8,14.8,76.8,Sagu Lemak (Kue Sagon),Vegan
+1065,347.0,0.9,0.3,85.2,Sagu lempeng,Vegan
+1066,364.0,0.1,0.2,90.5,Sagu Rendang,Vegan
+1067,362.0,0.5,0.3,86.9,Sagu singkong kering,Vegan
+1068,354.0,0.8,8.3,68.9,Sagu sinole,Vegan
+1069,57.0,0.5,0.1,13.6,Salak bali segar,Vegan
+1070,55.0,0.4,0.2,12.8,Salak medan segar,Vegan
+1071,87.0,0.8,0.4,20.1,Salak pondoh segar,Vegan
+1072,281.0,2.4,0.7,66.1,Sale pisang siam,Vegan
+1073,122.0,2.0,10.0,7.6,Santan (dengan air),Vegan
+1074,324.0,4.2,34.3,55.6,Santan (kelapa saja),Vegan
+1075,324.0,4.2,34.3,5.6,Santan murni,Vegan
+1076,98.0,2.0,0.4,24.5,Saos Tomat,Vegan
+1077,212.0,18.0,10.6,59.3,Sapi abon,Non-Vegetarian
+1078,108.0,17.6,4.2,0.0,Sapi babat segar,Non-Vegetarian
+1079,182.0,32.0,6.0,0.0,Sapi daging asap,Non-Vegetarian
+1080,301.0,55.0,9.0,0.0,Sapi daging dendeng mentah,Non-Vegetarian
+1081,273.0,17.5,22.0,0.0,Sapi daging gemuk segar,Non-Vegetarian
+1082,289.0,16.0,25.0,0.0,Sapi daging kornet,Non-Vegetarian
+1083,174.0,19.6,10.0,0.0,Sapi daging kurus segar,Non-Vegetarian
+1084,201.0,18.8,14.0,0.0,Sapi daging lemak sedang segar,Non-Vegetarian
+1085,448.0,14.5,42.3,2.3,Sapi daging sosis (Worst),Non-Vegetarian
+1086,183.0,12.0,14.4,1.4,Sapi daleman segar,Non-Vegetarian
+1087,98.0,21.9,1.1,0.0,Sapi dideh/darah,Non-Vegetarian
+1088,137.0,15.0,8.1,0.9,Sapi ginjal segar,Non-Vegetarian
+1089,274.0,16.0,22.0,3.0,Sapi hati sosis (liverworst),Non-Vegetarian
+1090,84.0,10.5,4.6,0.2,Sapi keleponan segar,Non-Vegetarian
+1091,132.0,19.7,3.2,6.0,Sapi liver segar,Non-Vegetarian
+1092,123.0,10.4,8.6,0.8,Sapi otak segar,Non-Vegetarian
+1093,360.0,57.3,6.0,19.2,Sapi paru dendeng mentah,Non-Vegetarian
+1094,268.0,23.9,12.7,14.5,Sapi paru goreng,Non-Vegetarian
+1095,126.0,14.0,7.2,1.5,Sapi usus segar,Non-Vegetarian
+1096,281.0,37.5,0.3,32.1,Sarang Burung,Non-Vegetarian
+1097,338.0,21.1,27.0,1.0,Sardines dalam kaleng,Non-Vegetarian
+1098,344.0,30.0,20.0,43.0,Sari Kedelai bubuk,Vegan
+1099,166.0,2.3,2.8,32.9,Sarimuka,Vegan
+1100,283.0,12.1,16.8,20.9,Sate Bandeng,Non-Vegetarian
+1101,110.0,15.5,0.5,11.5,Sate Kulit ,Non-Vegetarian
+1102,179.0,22.5,3.5,13.3,Sate penyu masakan,Non-Vegetarian
+1103,274.0,12.9,18.6,13.6,Sate pusut masakan,Non-Vegetarian
+1104,126.7,14.0,7.3,1.3,Sate Usus ,Non-Vegetarian
+1105,22.0,2.3,0.3,4.0,Sawi,Vegan
+1106,9.0,1.0,0.1,1.7,Sawi putih / pecai segar,Vegan
+1107,30.0,1.9,0.5,4.4,Sawi taiwan segar,Vegan
+1108,19.0,1.3,0.2,2.9,Sawi tanah segar,Vegan
+1109,92.0,0.5,1.1,22.4,Sawo,Vegan
+1110,64.0,1.0,3.1,8.0,Sawo duren segar,Vegan
+1111,111.0,0.9,2.3,21.6,Sawo kecik segar,Vegan
+1112,92.0,0.5,1.1,22.4,Sawo Manila segar,Vegan
+1113,29.0,0.7,0.6,5.0,Sayur asem,Vegan
+1114,49.0,1.7,0.3,9.8,Sayur bunga pepaya,Vegan
+1115,178.0,2.6,13.9,10.6,Sayur garu,Vegan
+1116,133.0,7.3,6.6,11.2,Sayur kohu-kohu,Vegan
+1117,64.0,2.1,0.6,12.5,Sayur lebui,Vegan
+1118,36.0,2.7,0.7,4.8,Sayur lilin-terubuk,Vegan
+1119,49.0,3.1,2.5,3.6,Sayur ndusuk,Vegan
+1120,27.0,1.3,2.0,1.0,Sayur sop,Vegan
+1121,67.0,5.2,2.9,5.1,Sayur umbut kelapa,Vegan
+1122,57.0,5.4,2.6,3.1,Sayur umbut rotan,Vegan
+1123,15.0,1.2,0.2,2.9,Selada,Vegan
+1124,17.0,1.7,0.3,3.0,Selada Air,Vegan
+1125,19.0,2.7,0.2,2.9,Selada Air rebus,Vegan
+1126,20.0,1.0,0.1,4.6,Seledri,Vegan
+1127,28.0,0.5,0.2,6.9,Semangka,Vegan
+1128,192.5,4.5,6.0,30.3,Semur Jengkol ,Vegan
+1129,64.0,0.6,0.3,14.8,Sente,Vegan
+1130,353.0,0.7,0.2,84.7,Sente talas segar,Vegan
+1131,88.0,7.9,1.6,10.6,Sepi masakan,Non-Vegetarian
+1132,298.0,8.0,23.8,48.9,Serbuk Coklat,Vegan
+1133,478.0,2.5,21.2,69.2,Serimping talas kebumen,Vegan
+1134,213.0,0.0,0.0,55.0,Setrup sirup,Vegan
+1135,88.0,3.2,8.0,0.8,Shabu-shabu,Non-Vegetarian
+1136,474.0,11.2,42.5,11.7,Sie reuboh masakan,Non-Vegetarian
+1137,81.0,5.1,4.5,5.1,Singkah (rotan muda),Vegan
+1138,285.0,1.0,18.0,28.0,Singkong Goreng ,Vegan
+1139,146.0,1.2,0.3,34.7,Singkong kukus,Vegan
+1140,173.0,0.5,0.1,42.5,Singkong tape,Vegan
+1141,95.3,4.4,2.2,14.4,Siomay ,Non-Vegetarian
+1142,65.0,1.0,0.3,16.3,Sirsak,Vegan
+1143,213.0,0.0,0.0,55.0,Sirup,Vegan
+1144,71.0,7.5,3.6,2.2,Sop buntut masakan,Non-Vegetarian
+1145,49.0,5.8,0.5,5.3,Sop daging sapi masakan,Non-Vegetarian
+1146,68.0,9.0,1.9,3.7,Sop kaki sapi masakan,Non-Vegetarian
+1147,34.0,5.5,0.8,1.1,Sop kambing masakan,Non-Vegetarian
+1148,71.0,7.4,2.6,4.5,Sop konro masakan,Non-Vegetarian
+1149,12.0,0.5,0.1,2.0,Sop Kool,Vegan
+1150,15.0,0.6,0.1,3.1,Sop Kool dan Wortel,Vegan
+1151,89.0,7.2,5.0,3.9,Sop saudara masakan,Non-Vegetarian
+1152,42.0,3.9,1.7,2.8,Soto bandung masakan,Non-Vegetarian
+1153,110.0,2.9,9.5,3.2,Soto banjar masakan,Non-Vegetarian
+1154,135.0,2.5,8.8,11.5,Soto betawi masakan,Non-Vegetarian
+1155,127.5,2.6,9.4,8.3,Soto dengan Daging,Non-Vegetarian
+1156,92.0,11.8,4.3,1.4,Soto jeroan masakan,Non-Vegetarian
+1157,38.0,2.6,2.3,1.8,Soto kudus masakan,Non-Vegetarian
+1158,60.0,3.5,4.5,1.3,Soto madura masakan,Non-Vegetarian
+1159,127.0,5.9,6.6,11.0,Soto padang masakan,Non-Vegetarian
+1160,94.0,3.0,6.8,5.1,Soto pekalongan masakan,Non-Vegetarian
+1161,75.0,3.6,5.2,3.5,Soto pemalang masakan,Non-Vegetarian
+1162,80.0,3.2,3.5,9.0,Soto sukaraja masakan,Non-Vegetarian
+1163,86.0,2.3,8.5,0.0,Soto sulung masakan,Non-Vegetarian
+1164,117.1,0.4,8.6,9.6,Soto tanpa Daging ,Vegan
+1165,139.0,7.4,2.1,22.6,Spaghetti,Vegan
+1166,101.0,1.7,0.6,35.2,Srikaya,Vegan
+1167,75.0,5.6,0.4,12.2,Sukiyaki masakan,Non-Vegetarian
+1168,119.0,1.4,0.2,28.1,Sukun muda segar,Vegan
+1169,126.0,1.6,0.2,24.5,Sukun tua segar,Vegan
+1170,418.0,19.0,9.0,65.5,Susu asam untuk bayi bubuk,Non-Vegetarian
+1171,513.0,24.6,30.0,36.2,Susu bubuk,Non-Vegetarian
+1172,64.0,4.3,2.3,6.6,Susu Kambing,Non-Vegetarian
+1173,41.0,3.5,2.5,5.0,Susu Kedelai,Vegan
+1174,336.0,8.2,10.0,55.0,Susu Kental Manis,Non-Vegetarian
+1175,138.0,7.0,7.9,9.9,Susu Kental Tak Manis,Non-Vegetarian
+1176,160.0,6.3,12.0,7.1,Susu Kerbau,Non-Vegetarian
+1177,61.0,3.2,3.5,4.3,Susu Sapi,Non-Vegetarian
+1178,36.0,3.5,0.1,5.1,Susu Skim (tak berlemak),Non-Vegetarian
+1179,359.0,35.6,1.0,52.0,Susu skim bubuk,Non-Vegetarian
+1180,36.0,3.5,0.1,5.1,Susu skim segar,Non-Vegetarian
+1181,87.0,5.3,5.2,6.3,Susupan,Non-Vegetarian
+1182,90.0,1.5,0.1,21.9,Suweg kukus,Vegan
+1183,69.0,1.0,0.1,15.7,Suweg mentah,Vegan
+1184,74.0,1.4,0.1,17.2,Suweg talas segar,Vegan
+1185,347.0,0.5,0.9,84.2,Suwir-suwir,Non-Vegetarian
+1186,68.0,7.8,4.6,1.6,Tahu,Vegan
+1187,115.0,9.7,8.5,2.5,Tahu goreng,Vegan
+1188,328.0,12.6,19.9,24.6,Tahu telur,Vegetarian
+1189,148.0,13.8,8.5,4.0,Takwa,Vegan
+1190,120.0,1.5,0.3,28.2,Talas bogor kukus,Vegan
+1191,163.0,2.3,0.5,36.4,Talas pontianak segar,Vegan
+1192,115.0,1.8,0.5,25.9,Talas viqueque segar,Vegan
+1193,120.0,1.5,0.3,28.2,Tales kukus,Vegan
+1194,98.0,1.9,0.2,23.7,Tales mentah,Vegan
+1195,166.0,10.4,4.9,24.1,Taoco,Vegan
+1196,88.0,3.2,2.1,14.0,Taoge goreng,Vegan
+1197,76.0,9.0,2.6,6.4,Taoge kacang kedelai segar,Vegan
+1198,28.0,3.0,0.8,4.0,Taoge seduh,Vegan
+1199,34.0,3.7,1.2,4.3,Taoge segar,Vegan
+1200,104.0,12.9,6.8,1.2,Taokoa,Vegan
+1201,99.0,1.7,0.3,22.4,Tapai beras,Vegan
+1202,166.0,3.8,1.0,34.4,Tapai ketan hitam,Vegan
+1203,172.0,3.0,0.5,37.5,Tapai ketan putih,Vegan
+1204,169.0,1.4,0.3,40.2,Tapai singkong,Vegan
+1205,358.0,7.5,4.3,70.4,Tauco cap DAS cake,Vegan
+1206,277.0,9.1,4.7,49.6,Tauji cap singa,Vegan
+1207,25.0,4.6,0.4,3.0,Tebu Terubuk,Vegan
+1208,83.0,10.4,3.4,2.8,Tedong pallu basa masakan,Non-Vegetarian
+1209,132.0,19.5,0.7,67.8,Teh,Vegan
+1210,300.0,28.3,4.8,53.6,Teh hijau daun kering,Vegan
+1211,299.0,24.1,3.5,59.0,Teh melati daun kering,Vegan
+1212,34.0,2.0,0.1,7.9,Tekokak,Vegan
+1213,294.0,8.3,1.7,72.6,Tekokak kering,Vegan
+1214,53.0,1.9,0.9,9.4,Tekwan,Non-Vegetarian
+1215,162.0,12.8,11.5,0.7,Telur Ayam,Non-Vegetarian
+1216,361.0,19.3,31.9,0.7,Telur Ayam bagian kuning,Non-Vegetarian
+1217,50.0,10.8,0.0,0.8,Telur Ayam bagian putih,Non-Vegetarian
+1218,383.0,15.1,32.9,8.3,Telur Ayam ceplok,Non-Vegetarian
+1219,251.0,16.3,19.4,1.4,Telur Ayam dadar,Non-Vegetarian
+1220,179.0,13.6,13.3,4.4,Telur ayam kampung ,Non-Vegetarian
+1221,386.0,17.0,35.0,0.8,Telur bebek bagian kuning segar,Non-Vegetarian
+1222,54.0,11.0,0.0,0.8,Telur Bebek bagian putih,Non-Vegetarian
+1223,54.0,11.0,0.0,0.8,Telur bebek bagian putih segar,Non-Vegetarian
+1224,320.0,15.1,30.5,0.9,Telur Bebek ceplok,Non-Vegetarian
+1225,301.0,20.0,23.7,0.0,Telur Bebek dadar,Non-Vegetarian
+1226,187.0,10.9,12.4,7.9,Telur bebek tambak segar,Non-Vegetarian
+1227,195.0,13.6,13.6,1.4,Telur Bebek telur asin,Non-Vegetarian
+1228,116.0,10.7,7.0,1.6,Telur burung puyuh segar,Non-Vegetarian
+1229,144.0,12.0,10.2,0.0,Telur Penyu,Non-Vegetarian
+1230,425.0,31.0,28.0,10.0,Telur Terubuk,Non-Vegetarian
+1231,119.0,4.4,3.5,18.3,Tempe bongkrek,Vegan
+1232,73.0,5.7,1.3,4.2,Tempe Gembus,Vegan
+1233,76.0,6.8,0.7,10.6,Tempe gembus yogya,Vegan
+1234,328.0,18.4,23.2,12.8,Tempe Goreng ,Vegan
+1235,139.0,12.5,0.8,21.9,Tempe kacang babi,Vegan
+1236,212.0,17.5,10.0,12.9,Tempe kacang belimbing,Vegan
+1237,143.0,12.0,5.5,11.4,Tempe kedelai + jagung,Vegan
+1238,350.0,24.5,26.6,10.4,Tempe kedelai murni goreng,Vegan
+1239,201.0,20.8,8.8,13.5,Tempe kedelai murni mentah,Vegan
+1240,141.0,10.2,1.3,23.2,Tempe koro benguk,Vegan
+1241,146.0,11.7,2.3,19.6,Tempe lamtoro var. gung dengan kulit,Vegan
+1242,131.0,18.0,0.8,13.0,Tempe lamtoro var. gung tanpa kulit,Vegan
+1243,150.0,14.0,7.7,9.1,Tempe pasar segar,Vegan
+1244,336.0,20.0,28.0,7.8,Tempe pasar goreng,Vegan
+1245,240.0,6.0,2.7,49.3,Tempe Sayur ,Vegan
+1246,110.0,1.7,1.3,21.9,Tempoya,Vegan
+1247,126.0,1.1,2.2,25.7,Tempuyak,Vegan
+1248,355.0,0.7,0.2,85.2,Tepung Arrowroot,Vegan
+1249,364.0,7.0,0.5,80.0,Tepung Beras,Vegan
+1250,353.0,7.0,0.5,80.0,Tepung beras mentah,Vegan
+1251,353.0,0.8,1.7,83.6,Tepung Ganyong,Vegan
+1252,363.0,1.1,0.5,88.2,Tepung Gaplek,Vegan
+1253,355.0,0.7,0.2,85.2,Tepung Garut (arrowroot),Vegan
+1254,364.0,4.5,1.0,83.5,Tepung Hunkwee,Vegan
+1255,316.0,60.1,6.5,22.4,Tepung Ikan,Non-Vegetarian
+1256,355.0,9.2,3.9,73.7,Tepung Jagung Kuning,Vegan
+1257,355.0,9.2,3.9,73.7,Tepung jagung putih,Vegan
+1258,388.0,19.0,7.5,61.2,Tepung Jalejo,Vegan
+1259,347.0,35.9,20.6,29.9,Tepung Kacang Kedelai,Vegan
+1260,347.0,0.3,0.1,85.6,Tepung Kentang,Vegan
+1261,350.0,1.2,0.6,85.0,Tepung Mocaf,Vegan
+1262,338.0,2.9,0.4,80.6,Tepung Pisang,Vegan
+1263,353.0,0.7,0.2,84.7,Tepung Sagu,Vegan
+1264,326.0,4.0,0.4,76.7,Tepung Sente,Vegan
+1265,363.0,1.1,0.5,88.2,Tepung singkong/ Tapioka,Vegan
+1266,353.0,2.9,0.5,84.4,Tepung Sukun,Vegan
+1267,509.0,24.6,30.0,36.2,Tepung Susu,Vegan
+1268,418.0,19.0,9.0,65.5,Tepung Susu Asam untuk bayi,Vegan
+1269,362.0,35.6,1.0,52.0,Tepung Susu Skim,Vegan
+1270,332.0,5.7,0.6,76.1,Tepung Tales Beneng,Vegan
+1271,365.0,8.9,1.3,77.3,Tepung Terigu,Vegan
+1272,354.0,2.8,0.6,84.4,Tepung Ubi Ungu,Vegan
+1273,155.0,22.3,2.9,9.9,Terasi,Non-Vegetarian
+1274,191.0,33.1,3.6,6.6,Terasi dobo,Non-Vegetarian
+1275,174.0,30.0,3.5,3.5,Terasi Merah,Non-Vegetarian
+1276,174.0,30.0,3.5,5.6,Terasi merah,Non-Vegetarian
+1277,365.0,23.7,22.3,17.5,Teri balado masakan,Non-Vegetarian
+1278,462.0,39.1,32.4,3.5,Teripang dendeng mentah,Non-Vegetarian
+1279,24.0,1.1,0.2,5.5,Terong,Vegan
+1280,285.0,4.3,25.7,9.5,Terong + Oncom makanan,Vegan
+1281,39.0,2.3,1.9,2.0,Terong Asam,Vegan
+1282,48.0,1.5,0.3,11.3,Terong Belanda,Vegan
+1283,45.0,1.9,0.8,7.5,Terong hintalo segar,Vegan
+1284,23.0,1.8,0.1,4.9,Terong kukus,Vegan
+1285,28.0,1.1,0.2,5.5,Terong segar,Vegan
+1286,52.0,2.1,1.1,8.6,Terung belanda segar,Vegan
+1287,52.0,1.1,0.4,11.2,Terung bengkulu segar,Vegan
+1288,25.0,2.1,0.1,5.3,Terung panjang,Vegan
+1289,23.0,1.8,0.1,4.9,Terung panjang kukus,Vegan
+1290,59.0,2.9,0.3,13.9,Tespong daun,Vegan
+1291,120.0,2.4,0.4,26.0,Tim (nasi tim),Vegan
+1292,33.0,1.2,1.3,4.1,Tinira ninahu nggaluku,Vegan
+1293,516.0,17.7,49.5,0.0,Tinoransak masakan,Non-Vegetarian
+1294,355.0,6.2,1.2,79.8,Tipa-tipa,Vegan
+1295,353.0,2.4,1.1,83.4,Tiwul  ,Vegan
+1296,395.0,3.2,8.5,76.5,Tiwul Instan,Vegan
+1297,392.0,5.4,28.5,28.4,Toge -Tahu makanan,Vegan
+1298,93.6,4.4,1.8,15.1,Toge Goreng ,Vegan
+1299,23.0,2.9,0.2,4.1,Toge kacang ijo,Vegan
+1300,35.0,5.0,0.2,5.8,Toge kacang tunggak,Vegan
+1301,67.0,9.0,2.6,6.4,Toge kedelai,Vegan
+1302,28.0,3.0,0.8,4.0,Toge seduh,Vegan
+1303,20.0,1.0,0.2,3.5,Tomat air (juice) segar,Vegan
+1304,20.0,1.0,0.3,4.2,Tomat Masak,Vegan
+1305,24.0,1.3,0.5,4.7,Tomat merah segar,Vegan
+1306,24.0,2.0,0.7,3.3,Tomat muda segar,Vegan
+1307,189.0,11.3,15.7,0.6,Tumis bandeng,Non-Vegetarian
+1308,48.0,1.4,4.2,2.6,Tumis bayam bersantan,Vegetarian
+1309,186.0,1.9,0.2,44.3,Ubi Cilembu,Vegan
+1310,160.0,3.7,1.3,55.3,Ubi Jalar Goreng ,Vegan
+1311,100.0,0.7,0.3,23.8,Ubi jalar kuning kukus,Vegan
+1312,119.0,0.5,0.4,25.1,Ubi jalar kuning segar,Vegan
+1313,83.0,1.5,0.2,18.8,Ubi jalar manis segar,Vegan
+1314,123.0,1.8,0.7,27.9,Ubi Jalar Merah,Vegan
+1315,151.0,1.6,0.3,35.4,Ubi jalar merah segar,Vegan
+1316,123.0,1.8,0.7,27.9,Ubi Jalar Putih,Vegan
+1317,114.0,1.4,9.6,25.6,Ubi Jalar Rebus,Vegan
+1318,184.0,1.4,0.3,22.5,Ubi Jalar Sayur,Vegan
+1319,108.0,0.5,0.4,25.6,Ubi jalar tinta/ kemayung,Vegan
+1320,165.0,0.9,0.2,39.8,Ubi jalar tinta/ kemayung kukus,Vegan
+1321,82.0,5.8,1.3,11.7,Uceng/ bunga melinjo segar,Vegan
+1322,56.0,11.4,0.6,1.2,Udang besar segar,Non-Vegetarian
+1323,81.0,16.5,0.3,3.0,Udang galah segar,Non-Vegetarian
+1324,295.0,62.4,2.3,1.8,Udang kering,Non-Vegetarian
+1325,278.0,62.6,4.1,2.2,Udang kering mentah,Non-Vegetarian
+1326,273.0,47.8,3.8,12.5,Udang papay mentah,Non-Vegetarian
+1327,91.0,21.0,0.2,0.1,Udang segar,Non-Vegetarian
+1328,380.0,11.9,30.3,14.9,Ulat sagu panggang,Non-Vegetarian
+1329,241.0,5.8,21.6,5.8,Ulat sagu segar,Non-Vegetarian
+1330,120.0,2.8,0.5,82.3,Umbi Uwi segar,Vegan
+1331,34.0,2.4,0.3,5.5,Umbut rotan,Vegan
+1332,130.0,14.0,7.2,1.5,Usus Sapi,Non-Vegetarian
+1333,101.0,2.0,0.2,19.8,Uwi,Vegan
+1334,363.0,8.7,0.4,78.7,Vermicelli,Vegan
+1335,303.0,6.3,2.7,63.3,Wajit camilan,Vegan
+1336,45.0,0.8,0.9,8.1,Waluh balamak,Vegan
+1337,424.0,1.3,10.7,80.7,Widaran,Vegan
+1338,568.0,19.3,51.1,18.1,Wijen,Vegan
+1339,355.0,3.2,15.1,51.4,Wingko babat,Vegan
+1340,143.0,3.1,7.8,15.0,Woku ubi,Vegan
+1341,452.0,14.5,42.3,2.3,Worst (sosis daging),Non-Vegetarian
+1342,42.0,1.2,0.6,9.3,Wortel Segar,Vegan
+1343,37.0,1.0,0.6,8.3,Wortel kukus,Vegan
+1344,28.0,0.7,0.5,6.3,Wortel rebus,Vegan
+1345,254.0,3.0,1.1,58.1,Yangko,Vegan
+1346,52.0,3.3,2.5,4.0,Yoghurt,Vegetarian
