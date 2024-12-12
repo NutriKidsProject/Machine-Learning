@@ -1,5 +1,4 @@
 #### **Machine Learning**
-**README.md**
 ```markdown
 # Machine Learning Model
 
