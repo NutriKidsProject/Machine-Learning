@@ -32,4 +32,3 @@ This project aims to combine two machine learning models to provide a comprehens
 
 #### **Purpose:**
 - To recommend suitable food and drink items based on the nutritional needs of children and nutrient composition of available foods.
-
