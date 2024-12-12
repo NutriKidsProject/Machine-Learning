@@ -2,7 +2,7 @@
 ```markdown
 # Machine Learning Model
 
-This folder contains the machine learning models for [NutriKids.
+This folder contains the machine learning models for NutriKids project.
 
 ## Features
 - Classification
